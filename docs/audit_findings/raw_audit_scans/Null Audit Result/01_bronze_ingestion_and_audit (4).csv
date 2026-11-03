@@ -1,0 +1,2 @@
+order_id,customer_id,warehouse_id,order_date,ship_date,delivery_date,promised_days,dispatch_days,transit_days,actual_delivery_days,shipping_city,shipping_state,shipping_fee,order_status,is_dispatch_delayed,is_transit_delayed,is_delayed,is_otif,_ingested_at,_source_file
+0,0,0,0,8.02,8.02,0,8.02,8.02,8.02,0,0,0,0,0,0,0,0,0,0

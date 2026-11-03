@@ -1,0 +1,4 @@
+bronze_orders: Total_rows = 1010000 | Distinct order_id = 1,000,000 | Duplicates = 10,000
+bronze_customers: Total_rows = 50000 | Distinct customer_id = 50,000 | Duplicates = 0
+bronze_products: Total_rows = 1000 | Distinct product_id = 1,000 | Duplicates = 0
+bronze_order_items: Total_rows = 1464019 | Distinct order_item_id = 1,449,520 | Duplicates = 14,499
