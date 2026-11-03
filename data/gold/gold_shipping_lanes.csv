@@ -1,0 +1,337 @@
+shipping_fee,total_orders,delayed_orders,otif_orders,year,lane,category,delay_rate_pct,otif_rate_pct,shipping_lane_type
+0.0,367840,67454,287410,All,All,All,18.34,78.13,All
+4.99,321925,123821,189452,All,All,All,38.46,58.85,All
+9.99,138155,81809,53931,All,All,All,59.22,39.04,All
+14.99,91884,71299,19664,All,All,All,77.6,21.4,All
+0.0,129242,24592,100181,All,All,Electronics,19.03,77.51,All
+4.99,113302,44915,65413,All,All,Electronics,39.64,57.73,All
+9.99,48580,29438,18320,All,All,Electronics,60.6,37.71,All
+14.99,32486,25519,6638,All,All,Electronics,78.55,20.43,All
+0.0,114945,22160,88803,All,All,Home & Kitchen,19.28,77.26,All
+4.99,99896,39802,57421,All,All,Home & Kitchen,39.84,57.48,All
+9.99,43278,26188,16321,All,All,Home & Kitchen,60.51,37.71,All
+14.99,28610,22700,5638,All,All,Home & Kitchen,79.34,19.71,All
+0.0,102610,19653,79409,All,All,Apparel,19.15,77.39,All
+4.99,89987,35625,52044,All,All,Apparel,39.59,57.84,All
+9.99,38461,23233,14587,All,All,Apparel,60.41,37.93,All
+14.99,25617,20008,5386,All,All,Apparel,78.1,21.03,All
+0.0,50891,9752,39312,All,All,Sports & Outdoors,19.16,77.25,All
+4.99,44644,17759,25668,All,All,Sports & Outdoors,39.78,57.49,All
+9.99,18952,11423,7204,All,All,Sports & Outdoors,60.27,38.01,All
+14.99,12744,10077,2554,All,All,Sports & Outdoors,79.07,20.04,All
+0.0,51529,9861,39850,All,All,Beauty & Health,19.14,77.34,All
+4.99,44609,17905,25531,All,All,Beauty & Health,40.14,57.23,All
+9.99,19322,11727,7270,All,All,Beauty & Health,60.69,37.63,All
+14.99,12805,9979,2689,All,All,Beauty & Health,77.93,21.0,All
+0.0,46078,9182,35343,All,All,Books,19.93,76.7,All
+4.99,40617,16206,23302,All,All,Books,39.9,57.37,All
+9.99,17035,10406,6337,All,All,Books,61.09,37.2,All
+14.99,11310,8970,2235,All,All,Books,79.31,19.76,All
+0.0,341071,67078,262108,All,Inter-State / Long-Haul,All,19.67,76.85,Inter-State / Long-Haul
+4.99,298237,122533,168047,All,Inter-State / Long-Haul,All,41.09,56.35,Inter-State / Long-Haul
+9.99,127941,80076,45807,All,Inter-State / Long-Haul,All,62.59,35.8,Inter-State / Long-Haul
+14.99,85151,68791,15628,All,Inter-State / Long-Haul,All,80.79,18.35,Inter-State / Long-Haul
+0.0,119786,24459,91230,All,Inter-State / Long-Haul,Electronics,20.42,76.16,Inter-State / Long-Haul
+4.99,104981,44447,57904,All,Inter-State / Long-Haul,Electronics,42.34,55.16,Inter-State / Long-Haul
+9.99,45057,28854,15513,All,Inter-State / Long-Haul,Electronics,64.04,34.43,Inter-State / Long-Haul
+14.99,30125,24619,5248,All,Inter-State / Long-Haul,Electronics,81.72,17.42,Inter-State / Long-Haul
+0.0,106750,22033,81050,All,Inter-State / Long-Haul,Home & Kitchen,20.64,75.93,Inter-State / Long-Haul
+4.99,92530,39365,50789,All,Inter-State / Long-Haul,Home & Kitchen,42.54,54.89,Inter-State / Long-Haul
+9.99,40094,25586,13852,All,Inter-State / Long-Haul,Home & Kitchen,63.82,34.55,Inter-State / Long-Haul
+14.99,26488,21850,4411,All,Inter-State / Long-Haul,Home & Kitchen,82.49,16.65,Inter-State / Long-Haul
+0.0,95162,19542,72361,All,Inter-State / Long-Haul,Apparel,20.54,76.04,Inter-State / Long-Haul
+4.99,83285,35262,46010,All,Inter-State / Long-Haul,Apparel,42.34,55.24,Inter-State / Long-Haul
+9.99,35603,22739,12317,All,Inter-State / Long-Haul,Apparel,63.87,34.6,Inter-State / Long-Haul
+14.99,23697,19313,4211,All,Inter-State / Long-Haul,Apparel,81.5,17.77,Inter-State / Long-Haul
+0.0,47240,9695,35884,All,Inter-State / Long-Haul,Sports & Outdoors,20.52,75.96,Inter-State / Long-Haul
+4.99,41479,17565,22844,All,Inter-State / Long-Haul,Sports & Outdoors,42.35,55.07,Inter-State / Long-Haul
+9.99,17528,11166,6083,All,Inter-State / Long-Haul,Sports & Outdoors,63.7,34.7,Inter-State / Long-Haul
+14.99,11869,9742,2034,All,Inter-State / Long-Haul,Sports & Outdoors,82.08,17.14,Inter-State / Long-Haul
+0.0,47713,9807,36274,All,Inter-State / Long-Haul,Beauty & Health,20.55,76.03,Inter-State / Long-Haul
+4.99,41285,17706,22548,All,Inter-State / Long-Haul,Beauty & Health,42.89,54.62,Inter-State / Long-Haul
+9.99,17901,11477,6153,All,Inter-State / Long-Haul,Beauty & Health,64.11,34.37,Inter-State / Long-Haul
+14.99,11894,9654,2140,All,Inter-State / Long-Haul,Beauty & Health,81.17,17.99,Inter-State / Long-Haul
+0.0,42811,9135,32259,All,Inter-State / Long-Haul,Books,21.34,75.35,Inter-State / Long-Haul
+4.99,37651,16026,20624,All,Inter-State / Long-Haul,Books,42.56,54.78,Inter-State / Long-Haul
+9.99,15789,10199,5342,All,Inter-State / Long-Haul,Books,64.6,33.83,Inter-State / Long-Haul
+14.99,10506,8649,1773,All,Inter-State / Long-Haul,Books,82.32,16.88,Inter-State / Long-Haul
+0.0,26769,376,25302,All,Intra-State / Local,All,1.4,94.52,Intra-State / Local
+4.99,23688,1288,21405,All,Intra-State / Local,All,5.44,90.36,Intra-State / Local
+9.99,10214,1733,8124,All,Intra-State / Local,All,16.97,79.54,Intra-State / Local
+14.99,6733,2508,4036,All,Intra-State / Local,All,37.25,59.94,Intra-State / Local
+0.0,9456,133,8951,All,Intra-State / Local,Electronics,1.41,94.66,Intra-State / Local
+4.99,8321,468,7509,All,Intra-State / Local,Electronics,5.62,90.24,Intra-State / Local
+9.99,3523,584,2807,All,Intra-State / Local,Electronics,16.58,79.68,Intra-State / Local
+14.99,2361,900,1390,All,Intra-State / Local,Electronics,38.12,58.87,Intra-State / Local
+0.0,8195,127,7753,All,Intra-State / Local,Home & Kitchen,1.55,94.61,Intra-State / Local
+4.99,7366,437,6632,All,Intra-State / Local,Home & Kitchen,5.93,90.04,Intra-State / Local
+9.99,3184,602,2469,All,Intra-State / Local,Home & Kitchen,18.91,77.54,Intra-State / Local
+14.99,2122,850,1227,All,Intra-State / Local,Home & Kitchen,40.06,57.82,Intra-State / Local
+0.0,7448,111,7048,All,Intra-State / Local,Apparel,1.49,94.63,Intra-State / Local
+4.99,6702,363,6034,All,Intra-State / Local,Apparel,5.42,90.03,Intra-State / Local
+9.99,2858,494,2270,All,Intra-State / Local,Apparel,17.28,79.43,Intra-State / Local
+14.99,1920,695,1175,All,Intra-State / Local,Apparel,36.2,61.2,Intra-State / Local
+0.0,3651,57,3428,All,Intra-State / Local,Sports & Outdoors,1.56,93.89,Intra-State / Local
+4.99,3165,194,2824,All,Intra-State / Local,Sports & Outdoors,6.13,89.23,Intra-State / Local
+9.99,1424,257,1121,All,Intra-State / Local,Sports & Outdoors,18.05,78.72,Intra-State / Local
+14.99,875,335,520,All,Intra-State / Local,Sports & Outdoors,38.29,59.43,Intra-State / Local
+0.0,3816,54,3576,All,Intra-State / Local,Beauty & Health,1.42,93.71,Intra-State / Local
+4.99,3324,199,2983,All,Intra-State / Local,Beauty & Health,5.99,89.74,Intra-State / Local
+9.99,1421,250,1117,All,Intra-State / Local,Beauty & Health,17.59,78.61,Intra-State / Local
+14.99,911,325,549,All,Intra-State / Local,Beauty & Health,35.68,60.26,Intra-State / Local
+0.0,3267,47,3084,All,Intra-State / Local,Books,1.44,94.4,Intra-State / Local
+4.99,2966,180,2678,All,Intra-State / Local,Books,6.07,90.29,Intra-State / Local
+9.99,1246,207,995,All,Intra-State / Local,Books,16.61,79.86,Intra-State / Local
+14.99,804,321,462,All,Intra-State / Local,Books,39.93,57.46,Intra-State / Local
+0.0,147035,27095,114676,2022,All,All,18.43,77.99,All
+4.99,128640,49816,75396,2022,All,All,38.73,58.61,All
+9.99,55445,32815,21661,2022,All,All,59.18,39.07,All
+14.99,36390,28273,7747,2022,All,All,77.69,21.29,All
+0.0,51597,9867,39907,2022,All,Electronics,19.12,77.34,All
+4.99,45376,18194,25968,2022,All,Electronics,40.1,57.23,All
+9.99,19351,11679,7358,2022,All,Electronics,60.35,38.02,All
+14.99,13022,10189,2697,2022,All,Electronics,78.24,20.71,All
+0.0,45891,8945,35335,2022,All,Home & Kitchen,19.49,77.0,All
+4.99,39682,16000,22673,2022,All,Home & Kitchen,40.32,57.14,All
+9.99,17296,10501,6481,2022,All,Home & Kitchen,60.71,37.47,All
+14.99,11256,8921,2220,2022,All,Home & Kitchen,79.26,19.72,All
+0.0,41165,7969,31823,2022,All,Apparel,19.36,77.31,All
+4.99,35696,14169,20632,2022,All,Apparel,39.69,57.8,All
+9.99,15465,9369,5838,2022,All,Apparel,60.58,37.75,All
+14.99,10122,7941,2087,2022,All,Apparel,78.45,20.62,All
+0.0,20365,3854,15731,2022,All,Sports & Outdoors,18.92,77.25,All
+4.99,17806,7147,10166,2022,All,Sports & Outdoors,40.14,57.09,All
+9.99,7787,4717,2945,2022,All,Sports & Outdoors,60.58,37.82,All
+14.99,5037,4003,984,2022,All,Sports & Outdoors,79.47,19.54,All
+0.0,20727,3955,16026,2022,All,Beauty & Health,19.08,77.32,All
+4.99,17977,7287,10239,2022,All,Beauty & Health,40.54,56.96,All
+9.99,7641,4616,2882,2022,All,Beauty & Health,60.41,37.72,All
+14.99,5110,4009,1051,2022,All,Beauty & Health,78.45,20.57,All
+0.0,18334,3711,13996,2022,All,Books,20.24,76.34,All
+4.99,16203,6457,9309,2022,All,Books,39.85,57.45,All
+9.99,6858,4176,2566,2022,All,Books,60.89,37.42,All
+14.99,4516,3615,860,2022,All,Books,80.05,19.04,All
+0.0,136356,26935,104572,2022,Inter-State / Long-Haul,All,19.75,76.69,Inter-State / Long-Haul
+4.99,119155,49286,66810,2022,Inter-State / Long-Haul,All,41.36,56.07,Inter-State / Long-Haul
+9.99,51370,32124,18411,2022,Inter-State / Long-Haul,All,62.53,35.84,Inter-State / Long-Haul
+14.99,33701,27253,6154,2022,Inter-State / Long-Haul,All,80.87,18.26,Inter-State / Long-Haul
+0.0,47778,9806,36303,2022,Inter-State / Long-Haul,Electronics,20.52,75.98,Inter-State / Long-Haul
+4.99,42101,18000,23017,2022,Inter-State / Long-Haul,Electronics,42.75,54.67,Inter-State / Long-Haul
+9.99,17973,11446,6260,2022,Inter-State / Long-Haul,Electronics,63.68,34.83,Inter-State / Long-Haul
+14.99,12056,9819,2131,2022,Inter-State / Long-Haul,Electronics,81.44,17.68,Inter-State / Long-Haul
+0.0,42667,8888,32283,2022,Inter-State / Long-Haul,Home & Kitchen,20.83,75.66,Inter-State / Long-Haul
+4.99,36744,15815,20018,2022,Inter-State / Long-Haul,Home & Kitchen,43.04,54.48,Inter-State / Long-Haul
+9.99,16059,10269,5519,2022,Inter-State / Long-Haul,Home & Kitchen,63.95,34.37,Inter-State / Long-Haul
+14.99,10425,8590,1739,2022,Inter-State / Long-Haul,Home & Kitchen,82.4,16.68,Inter-State / Long-Haul
+0.0,38188,7917,29003,2022,Inter-State / Long-Haul,Apparel,20.73,75.95,Inter-State / Long-Haul
+4.99,33060,14030,18234,2022,Inter-State / Long-Haul,Apparel,42.44,55.15,Inter-State / Long-Haul
+9.99,14287,9158,4908,2022,Inter-State / Long-Haul,Apparel,64.1,34.35,Inter-State / Long-Haul
+14.99,9350,7650,1625,2022,Inter-State / Long-Haul,Apparel,81.82,17.38,Inter-State / Long-Haul
+0.0,18873,3828,14330,2022,Inter-State / Long-Haul,Sports & Outdoors,20.28,75.93,Inter-State / Long-Haul
+4.99,16502,7067,9001,2022,Inter-State / Long-Haul,Sports & Outdoors,42.83,54.54,Inter-State / Long-Haul
+9.99,7224,4598,2517,2022,Inter-State / Long-Haul,Sports & Outdoors,63.65,34.84,Inter-State / Long-Haul
+14.99,4698,3870,790,2022,Inter-State / Long-Haul,Sports & Outdoors,82.38,16.82,Inter-State / Long-Haul
+0.0,19170,3935,14562,2022,Inter-State / Long-Haul,Beauty & Health,20.53,75.96,Inter-State / Long-Haul
+4.99,16648,7188,9059,2022,Inter-State / Long-Haul,Beauty & Health,43.18,54.41,Inter-State / Long-Haul
+9.99,7103,4530,2449,2022,Inter-State / Long-Haul,Beauty & Health,63.78,34.48,Inter-State / Long-Haul
+14.99,4752,3867,849,2022,Inter-State / Long-Haul,Beauty & Health,81.38,17.87,Inter-State / Long-Haul
+0.0,17070,3697,12799,2022,Inter-State / Long-Haul,Books,21.66,74.98,Inter-State / Long-Haul
+4.99,15042,6383,8259,2022,Inter-State / Long-Haul,Books,42.43,54.91,Inter-State / Long-Haul
+9.99,6367,4095,2169,2022,Inter-State / Long-Haul,Books,64.32,34.07,Inter-State / Long-Haul
+14.99,4205,3483,690,2022,Inter-State / Long-Haul,Books,82.83,16.41,Inter-State / Long-Haul
+0.0,10679,160,10104,2022,Intra-State / Local,All,1.5,94.62,Intra-State / Local
+4.99,9485,530,8586,2022,Intra-State / Local,All,5.59,90.52,Intra-State / Local
+9.99,4075,691,3250,2022,Intra-State / Local,All,16.96,79.75,Intra-State / Local
+14.99,2689,1020,1593,2022,Intra-State / Local,All,37.93,59.24,Intra-State / Local
+0.0,3819,61,3604,2022,Intra-State / Local,Electronics,1.6,94.37,Intra-State / Local
+4.99,3275,194,2951,2022,Intra-State / Local,Electronics,5.92,90.11,Intra-State / Local
+9.99,1378,233,1098,2022,Intra-State / Local,Electronics,16.91,79.68,Intra-State / Local
+14.99,966,370,566,2022,Intra-State / Local,Electronics,38.3,58.59,Intra-State / Local
+0.0,3224,57,3052,2022,Intra-State / Local,Home & Kitchen,1.77,94.67,Intra-State / Local
+4.99,2938,185,2655,2022,Intra-State / Local,Home & Kitchen,6.3,90.37,Intra-State / Local
+9.99,1237,232,962,2022,Intra-State / Local,Home & Kitchen,18.76,77.77,Intra-State / Local
+14.99,831,331,481,2022,Intra-State / Local,Home & Kitchen,39.83,57.88,Intra-State / Local
+0.0,2977,52,2820,2022,Intra-State / Local,Apparel,1.75,94.73,Intra-State / Local
+4.99,2636,139,2398,2022,Intra-State / Local,Apparel,5.27,90.97,Intra-State / Local
+9.99,1178,211,930,2022,Intra-State / Local,Apparel,17.91,78.95,Intra-State / Local
+14.99,772,291,462,2022,Intra-State / Local,Apparel,37.69,59.84,Intra-State / Local
+0.0,1492,26,1401,2022,Intra-State / Local,Sports & Outdoors,1.74,93.9,Intra-State / Local
+4.99,1304,80,1165,2022,Intra-State / Local,Sports & Outdoors,6.13,89.34,Intra-State / Local
+9.99,563,119,428,2022,Intra-State / Local,Sports & Outdoors,21.14,76.02,Intra-State / Local
+14.99,339,133,194,2022,Intra-State / Local,Sports & Outdoors,39.23,57.23,Intra-State / Local
+0.0,1557,20,1464,2022,Intra-State / Local,Beauty & Health,1.28,94.03,Intra-State / Local
+4.99,1329,99,1180,2022,Intra-State / Local,Beauty & Health,7.45,88.79,Intra-State / Local
+9.99,538,86,433,2022,Intra-State / Local,Beauty & Health,15.99,80.48,Intra-State / Local
+14.99,358,142,202,2022,Intra-State / Local,Beauty & Health,39.66,56.42,Intra-State / Local
+0.0,1264,14,1197,2022,Intra-State / Local,Books,1.11,94.7,Intra-State / Local
+4.99,1161,74,1050,2022,Intra-State / Local,Books,6.37,90.44,Intra-State / Local
+9.99,491,81,397,2022,Intra-State / Local,Books,16.5,80.86,Intra-State / Local
+14.99,311,132,170,2022,Intra-State / Local,Books,42.44,54.66,Intra-State / Local
+0.0,147727,27277,115286,2023,All,All,18.46,78.04,All
+4.99,129398,49975,75943,2023,All,All,38.62,58.69,All
+9.99,55248,32828,21471,2023,All,All,59.42,38.86,All
+14.99,37052,28849,7830,2023,All,All,77.86,21.13,All
+0.0,51842,9919,40189,2023,All,Electronics,19.13,77.52,All
+4.99,45475,17981,26309,2023,All,Electronics,39.54,57.85,All
+9.99,19437,11839,7256,2023,All,Electronics,60.91,37.33,All
+14.99,12966,10228,2594,2023,All,Electronics,78.88,20.01,All
+0.0,46174,8894,35691,2023,All,Home & Kitchen,19.26,77.3,All
+4.99,40113,15970,23024,2023,All,Home & Kitchen,39.81,57.4,All
+9.99,17435,10574,6551,2023,All,Home & Kitchen,60.65,37.57,All
+14.99,11701,9313,2283,2023,All,Home & Kitchen,79.59,19.51,All
+0.0,41086,7816,31806,2023,All,Apparel,19.02,77.41,All
+4.99,36345,14413,20985,2023,All,Apparel,39.66,57.74,All
+9.99,15409,9336,5831,2023,All,Apparel,60.59,37.84,All
+14.99,10342,8092,2167,2023,All,Apparel,78.24,20.95,All
+0.0,20520,4042,15784,2023,All,Sports & Outdoors,19.7,76.92,All
+4.99,17992,7173,10347,2023,All,Sports & Outdoors,39.87,57.51,All
+9.99,7413,4449,2851,2023,All,Sports & Outdoors,60.02,38.46,All
+14.99,5196,4109,1046,2023,All,Sports & Outdoors,79.08,20.13,All
+0.0,20545,3973,15852,2023,All,Beauty & Health,19.34,77.16,All
+4.99,17778,7119,10188,2023,All,Beauty & Health,40.04,57.31,All
+9.99,7769,4767,2881,2023,All,Beauty & Health,61.36,37.08,All
+14.99,5105,3963,1083,2023,All,Beauty & Health,77.63,21.21,All
+0.0,18645,3725,14306,2023,All,Books,19.98,76.73,All
+4.99,16295,6585,9271,2023,All,Books,40.41,56.89,All
+9.99,6842,4183,2553,2023,All,Books,61.14,37.31,All
+14.99,4545,3617,883,2023,All,Books,79.58,19.43,All
+0.0,136908,27120,105086,2023,Inter-State / Long-Haul,All,19.81,76.76,Inter-State / Long-Haul
+4.99,119938,49460,67404,2023,Inter-State / Long-Haul,All,41.24,56.2,Inter-State / Long-Haul
+9.99,51137,32119,18229,2023,Inter-State / Long-Haul,All,62.81,35.65,Inter-State / Long-Haul
+14.99,34333,27855,6190,2023,Inter-State / Long-Haul,All,81.13,18.03,Inter-State / Long-Haul
+0.0,48072,9865,36614,2023,Inter-State / Long-Haul,Electronics,20.52,76.16,Inter-State / Long-Haul
+4.99,42081,17802,23241,2023,Inter-State / Long-Haul,Electronics,42.3,55.23,Inter-State / Long-Haul
+9.99,18041,11600,6161,2023,Inter-State / Long-Haul,Electronics,64.3,34.15,Inter-State / Long-Haul
+14.99,12017,9864,2046,2023,Inter-State / Long-Haul,Electronics,82.08,17.03,Inter-State / Long-Haul
+0.0,42793,8847,32499,2023,Inter-State / Long-Haul,Home & Kitchen,20.67,75.94,Inter-State / Long-Haul
+4.99,37169,15793,20379,2023,Inter-State / Long-Haul,Home & Kitchen,42.49,54.83,Inter-State / Long-Haul
+9.99,16118,10321,5538,2023,Inter-State / Long-Haul,Home & Kitchen,64.03,34.36,Inter-State / Long-Haul
+14.99,10816,8958,1774,2023,Inter-State / Long-Haul,Home & Kitchen,82.82,16.4,Inter-State / Long-Haul
+0.0,38057,7769,28948,2023,Inter-State / Long-Haul,Apparel,20.41,76.06,Inter-State / Long-Haul
+4.99,33595,14264,18522,2023,Inter-State / Long-Haul,Apparel,42.46,55.13,Inter-State / Long-Haul
+9.99,14263,9133,4931,2023,Inter-State / Long-Haul,Apparel,64.03,34.57,Inter-State / Long-Haul
+14.99,9566,7814,1689,2023,Inter-State / Long-Haul,Apparel,81.69,17.66,Inter-State / Long-Haul
+0.0,19062,4019,14417,2023,Inter-State / Long-Haul,Sports & Outdoors,21.08,75.63,Inter-State / Long-Haul
+4.99,16772,7096,9260,2023,Inter-State / Long-Haul,Sports & Outdoors,42.31,55.21,Inter-State / Long-Haul
+9.99,6826,4352,2379,2023,Inter-State / Long-Haul,Sports & Outdoors,63.76,34.85,Inter-State / Long-Haul
+14.99,4820,3972,812,2023,Inter-State / Long-Haul,Sports & Outdoors,82.41,16.85,Inter-State / Long-Haul
+0.0,19047,3948,14455,2023,Inter-State / Long-Haul,Beauty & Health,20.73,75.89,Inter-State / Long-Haul
+4.99,16453,7053,8982,2023,Inter-State / Long-Haul,Beauty & Health,42.87,54.59,Inter-State / Long-Haul
+9.99,7194,4665,2433,2023,Inter-State / Long-Haul,Beauty & Health,64.85,33.82,Inter-State / Long-Haul
+14.99,4735,3844,848,2023,Inter-State / Long-Haul,Beauty & Health,81.18,17.91,Inter-State / Long-Haul
+0.0,17297,3703,13033,2023,Inter-State / Long-Haul,Books,21.41,75.35,Inter-State / Long-Haul
+4.99,15109,6517,8196,2023,Inter-State / Long-Haul,Books,43.13,54.25,Inter-State / Long-Haul
+9.99,6338,4103,2151,2023,Inter-State / Long-Haul,Books,64.74,33.94,Inter-State / Long-Haul
+14.99,4219,3496,686,2023,Inter-State / Long-Haul,Books,82.86,16.26,Inter-State / Long-Haul
+0.0,10819,157,10200,2023,Intra-State / Local,All,1.45,94.28,Intra-State / Local
+4.99,9460,515,8539,2023,Intra-State / Local,All,5.44,90.26,Intra-State / Local
+9.99,4111,709,3242,2023,Intra-State / Local,All,17.25,78.86,Intra-State / Local
+14.99,2719,994,1640,2023,Intra-State / Local,All,36.56,60.32,Intra-State / Local
+0.0,3770,54,3575,2023,Intra-State / Local,Electronics,1.43,94.83,Intra-State / Local
+4.99,3394,179,3068,2023,Intra-State / Local,Electronics,5.27,90.39,Intra-State / Local
+9.99,1396,239,1095,2023,Intra-State / Local,Electronics,17.12,78.44,Intra-State / Local
+14.99,949,364,548,2023,Intra-State / Local,Electronics,38.36,57.74,Intra-State / Local
+0.0,3381,47,3192,2023,Intra-State / Local,Home & Kitchen,1.39,94.41,Intra-State / Local
+4.99,2944,177,2645,2023,Intra-State / Local,Home & Kitchen,6.01,89.84,Intra-State / Local
+9.99,1317,253,1013,2023,Intra-State / Local,Home & Kitchen,19.21,76.92,Intra-State / Local
+14.99,885,355,509,2023,Intra-State / Local,Home & Kitchen,40.11,57.51,Intra-State / Local
+0.0,3029,47,2858,2023,Intra-State / Local,Apparel,1.55,94.35,Intra-State / Local
+4.99,2750,149,2463,2023,Intra-State / Local,Apparel,5.42,89.56,Intra-State / Local
+9.99,1146,203,900,2023,Intra-State / Local,Apparel,17.71,78.53,Intra-State / Local
+14.99,776,278,478,2023,Intra-State / Local,Apparel,35.82,61.6,Intra-State / Local
+0.0,1458,23,1367,2023,Intra-State / Local,Sports & Outdoors,1.58,93.76,Intra-State / Local
+4.99,1220,77,1087,2023,Intra-State / Local,Sports & Outdoors,6.31,89.1,Intra-State / Local
+9.99,587,97,472,2023,Intra-State / Local,Sports & Outdoors,16.52,80.41,Intra-State / Local
+14.99,376,137,234,2023,Intra-State / Local,Sports & Outdoors,36.44,62.23,Intra-State / Local
+0.0,1498,25,1397,2023,Intra-State / Local,Beauty & Health,1.67,93.26,Intra-State / Local
+4.99,1325,66,1206,2023,Intra-State / Local,Beauty & Health,4.98,91.02,Intra-State / Local
+9.99,575,102,448,2023,Intra-State / Local,Beauty & Health,17.74,77.91,Intra-State / Local
+14.99,370,119,235,2023,Intra-State / Local,Beauty & Health,32.16,63.51,Intra-State / Local
+0.0,1348,22,1273,2023,Intra-State / Local,Books,1.63,94.44,Intra-State / Local
+4.99,1186,68,1075,2023,Intra-State / Local,Books,5.73,90.64,Intra-State / Local
+9.99,504,80,402,2023,Intra-State / Local,Books,15.87,79.76,Intra-State / Local
+14.99,326,121,197,2023,Intra-State / Local,Books,37.12,60.43,Intra-State / Local
+0.0,73078,13082,57448,2024,All,All,17.9,78.61,All
+4.99,63887,24030,38113,2024,All,All,37.61,59.66,All
+9.99,27462,16166,10799,2024,All,All,58.87,39.32,All
+14.99,18442,14177,4087,2024,All,All,76.87,22.16,All
+0.0,25803,4806,20085,2024,All,Electronics,18.63,77.84,All
+4.99,22451,8740,13136,2024,All,Electronics,38.93,58.51,All
+9.99,9792,5920,3706,2024,All,Electronics,60.46,37.85,All
+14.99,6498,5102,1347,2024,All,Electronics,78.52,20.73,All
+0.0,22880,4321,17777,2024,All,Home & Kitchen,18.89,77.7,All
+4.99,20101,7832,11724,2024,All,Home & Kitchen,38.96,58.33,All
+9.99,8547,5113,3289,2024,All,Home & Kitchen,59.82,38.48,All
+14.99,5653,4466,1135,2024,All,Home & Kitchen,79.0,20.08,All
+0.0,20359,3868,15780,2024,All,Apparel,19.0,77.51,All
+4.99,17946,7043,10427,2024,All,Apparel,39.25,58.1,All
+9.99,7587,4528,2918,2024,All,Apparel,59.68,38.46,All
+14.99,5153,3975,1132,2024,All,Apparel,77.14,21.97,All
+0.0,10006,1856,7797,2024,All,Sports & Outdoors,18.55,77.92,All
+4.99,8846,3439,5155,2024,All,Sports & Outdoors,38.88,58.27,All
+9.99,3752,2257,1408,2024,All,Sports & Outdoors,60.15,37.53,All
+14.99,2511,1965,524,2024,All,Sports & Outdoors,78.26,20.87,All
+0.0,10257,1933,7972,2024,All,Beauty & Health,18.85,77.72,All
+4.99,8854,3499,5104,2024,All,Beauty & Health,39.52,57.65,All
+9.99,3912,2344,1507,2024,All,Beauty & Health,59.92,38.52,All
+14.99,2590,2007,555,2024,All,Beauty & Health,77.49,21.43,All
+0.0,9099,1746,7041,2024,All,Books,19.19,77.38,All
+4.99,8119,3164,4722,2024,All,Books,38.97,58.16,All
+9.99,3335,2047,1218,2024,All,Books,61.38,36.52,All
+14.99,2249,1738,492,2024,All,Books,77.28,21.88,All
+0.0,67807,13023,52450,2024,Inter-State / Long-Haul,All,19.21,77.35,Inter-State / Long-Haul
+4.99,59144,23787,33833,2024,Inter-State / Long-Haul,All,40.22,57.2,Inter-State / Long-Haul
+9.99,25434,15833,9167,2024,Inter-State / Long-Haul,All,62.25,36.04,Inter-State / Long-Haul
+14.99,17117,13683,3284,2024,Inter-State / Long-Haul,All,79.94,19.19,Inter-State / Long-Haul
+0.0,23936,4788,18313,2024,Inter-State / Long-Haul,Electronics,20.0,76.51,Inter-State / Long-Haul
+4.99,20799,8645,11646,2024,Inter-State / Long-Haul,Electronics,41.56,55.99,Inter-State / Long-Haul
+9.99,9043,5808,3092,2024,Inter-State / Long-Haul,Electronics,64.23,34.19,Inter-State / Long-Haul
+14.99,6052,4936,1071,2024,Inter-State / Long-Haul,Electronics,81.56,17.7,Inter-State / Long-Haul
+0.0,21290,4298,16268,2024,Inter-State / Long-Haul,Home & Kitchen,20.19,76.41,Inter-State / Long-Haul
+4.99,18617,7757,10392,2024,Inter-State / Long-Haul,Home & Kitchen,41.67,55.82,Inter-State / Long-Haul
+9.99,7917,4996,2795,2024,Inter-State / Long-Haul,Home & Kitchen,63.1,35.3,Inter-State / Long-Haul
+14.99,5247,4302,898,2024,Inter-State / Long-Haul,Home & Kitchen,81.99,17.11,Inter-State / Long-Haul
+0.0,18917,3856,14410,2024,Inter-State / Long-Haul,Apparel,20.38,76.17,Inter-State / Long-Haul
+4.99,16630,6968,9254,2024,Inter-State / Long-Haul,Apparel,41.9,55.65,Inter-State / Long-Haul
+9.99,7053,4448,2478,2024,Inter-State / Long-Haul,Apparel,63.07,35.13,Inter-State / Long-Haul
+14.99,4781,3849,897,2024,Inter-State / Long-Haul,Apparel,80.51,18.76,Inter-State / Long-Haul
+0.0,9305,1848,7137,2024,Inter-State / Long-Haul,Sports & Outdoors,19.86,76.7,Inter-State / Long-Haul
+4.99,8205,3402,4583,2024,Inter-State / Long-Haul,Sports & Outdoors,41.46,55.86,Inter-State / Long-Haul
+9.99,3478,2216,1187,2024,Inter-State / Long-Haul,Sports & Outdoors,63.71,34.13,Inter-State / Long-Haul
+14.99,2351,1900,432,2024,Inter-State / Long-Haul,Sports & Outdoors,80.82,18.38,Inter-State / Long-Haul
+0.0,9496,1924,7257,2024,Inter-State / Long-Haul,Beauty & Health,20.26,76.42,Inter-State / Long-Haul
+4.99,8184,3465,4507,2024,Inter-State / Long-Haul,Beauty & Health,42.34,55.07,Inter-State / Long-Haul
+9.99,3604,2282,1271,2024,Inter-State / Long-Haul,Beauty & Health,63.32,35.27,Inter-State / Long-Haul
+14.99,2407,1943,443,2024,Inter-State / Long-Haul,Beauty & Health,80.72,18.4,Inter-State / Long-Haul
+0.0,8444,1735,6427,2024,Inter-State / Long-Haul,Books,20.55,76.11,Inter-State / Long-Haul
+4.99,7500,3126,4169,2024,Inter-State / Long-Haul,Books,41.68,55.59,Inter-State / Long-Haul
+9.99,3084,2001,1022,2024,Inter-State / Long-Haul,Books,64.88,33.14,Inter-State / Long-Haul
+14.99,2082,1670,397,2024,Inter-State / Long-Haul,Books,80.21,19.07,Inter-State / Long-Haul
+0.0,5271,59,4998,2024,Intra-State / Local,All,1.12,94.82,Intra-State / Local
+4.99,4743,243,4280,2024,Intra-State / Local,All,5.12,90.24,Intra-State / Local
+9.99,2028,333,1632,2024,Intra-State / Local,All,16.42,80.47,Intra-State / Local
+14.99,1325,494,803,2024,Intra-State / Local,All,37.28,60.6,Intra-State / Local
+0.0,1867,18,1772,2024,Intra-State / Local,Electronics,0.96,94.91,Intra-State / Local
+4.99,1652,95,1490,2024,Intra-State / Local,Electronics,5.75,90.19,Intra-State / Local
+9.99,749,112,614,2024,Intra-State / Local,Electronics,14.95,81.98,Intra-State / Local
+14.99,446,166,276,2024,Intra-State / Local,Electronics,37.22,61.88,Intra-State / Local
+0.0,1590,23,1509,2024,Intra-State / Local,Home & Kitchen,1.45,94.91,Intra-State / Local
+4.99,1484,75,1332,2024,Intra-State / Local,Home & Kitchen,5.05,89.76,Intra-State / Local
+9.99,630,117,494,2024,Intra-State / Local,Home & Kitchen,18.57,78.41,Intra-State / Local
+14.99,406,164,237,2024,Intra-State / Local,Home & Kitchen,40.39,58.37,Intra-State / Local
+0.0,1442,12,1370,2024,Intra-State / Local,Apparel,0.83,95.01,Intra-State / Local
+4.99,1316,75,1173,2024,Intra-State / Local,Apparel,5.7,89.13,Intra-State / Local
+9.99,534,80,440,2024,Intra-State / Local,Apparel,14.98,82.4,Intra-State / Local
+14.99,372,126,235,2024,Intra-State / Local,Apparel,33.87,63.17,Intra-State / Local
+0.0,701,8,660,2024,Intra-State / Local,Sports & Outdoors,1.14,94.15,Intra-State / Local
+4.99,641,37,572,2024,Intra-State / Local,Sports & Outdoors,5.77,89.24,Intra-State / Local
+9.99,274,41,221,2024,Intra-State / Local,Sports & Outdoors,14.96,80.66,Intra-State / Local
+14.99,160,65,92,2024,Intra-State / Local,Sports & Outdoors,40.62,57.5,Intra-State / Local
+0.0,761,9,715,2024,Intra-State / Local,Beauty & Health,1.18,93.96,Intra-State / Local
+4.99,670,34,597,2024,Intra-State / Local,Beauty & Health,5.07,89.1,Intra-State / Local
+9.99,308,62,236,2024,Intra-State / Local,Beauty & Health,20.13,76.62,Intra-State / Local
+14.99,183,64,112,2024,Intra-State / Local,Beauty & Health,34.97,61.2,Intra-State / Local
+0.0,655,11,614,2024,Intra-State / Local,Books,1.68,93.74,Intra-State / Local
+4.99,619,38,553,2024,Intra-State / Local,Books,6.14,89.34,Intra-State / Local
+9.99,251,46,196,2024,Intra-State / Local,Books,18.33,78.09,Intra-State / Local
+14.99,167,68,95,2024,Intra-State / Local,Books,40.72,56.89,Intra-State / Local

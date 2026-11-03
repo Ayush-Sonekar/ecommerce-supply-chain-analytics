@@ -1,0 +1,15 @@
+loyalty_cohort,customer_count,cohort_total_revenue,avg_orders_per_customer,pct_of_customers,pct_of_total_revenue,year
+2. Repeat Buyer (2-5 orders),6,16826.451095,4.2,0.01,0.0,All
+3. Frequent Buyer (6-15 orders),12840,112175430.58995,13.2,25.68,18.36,All
+4. VIP Power Buyer (16+ orders),37154,498650926.60537,20.2,74.31,81.63,All
+1. One-Time Shopper (1 order),236,174070.6136,1.0,0.47,0.07,2022
+2. Repeat Buyer (2-5 orders),12573,34579235.021345,4.2,25.16,14.19,2022
+3. Frequent Buyer (6-15 orders),36991,207210046.344325,8.4,74.03,85.02,2022
+4. VIP Power Buyer (16+ orders),168,1759326.38462,16.6,0.34,0.72,2022
+1. One-Time Shopper (1 order),217,125081.04233,1.0,0.43,0.05,2023
+2. Repeat Buyer (2-5 orders),12483,34605780.379915,4.1,24.98,14.1,2023
+3. Frequent Buyer (6-15 orders),37071,208544257.725605,8.5,74.19,84.96,2023
+4. VIP Power Buyer (16+ orders),194,2180283.34619,16.7,0.39,0.89,2023
+1. One-Time Shopper (1 order),4760,3167591.041385,1.0,9.77,2.6,2024
+2. Repeat Buyer (2-5 orders),35788,81737211.40645,3.4,73.49,67.18,2024
+3. Frequent Buyer (6-15 orders),8150,36760300.34065,6.8,16.74,30.21,2024

@@ -1,0 +1,841 @@
+warehouse_id,fulfilled_orders,total_delayed_orders,warehouse_delays,carrier_delays,compound_delays,year,lane,category,warehouse_name,city,state,warehouse_sla_breach_pct,carrier_sla_breach_pct,total_delivery_delay_pct,concession_loss_usd,annualized_concession_loss
+1,91655,37045,5607,23302,8136,All,All,All,East Coast Hub,New York,NY,6.12,25.42,40.42,926125.0,926125.0
+2,92009,24763,4356,16208,4199,All,All,All,Midwest Logistics Center,Chicago,IL,4.73,17.62,26.91,619075.0,619075.0
+3,92326,25639,4260,16793,4586,All,All,All,Southern Gateway,Dallas,TX,4.61,18.19,27.77,640975.0,640975.0
+4,92270,52359,4198,35688,12473,All,All,All,Pacific Distribution Hub,Los Angeles,CA,4.55,38.68,56.75,1308975.0,1308975.0
+5,92154,26028,4178,17535,4315,All,All,All,Southeast Express Hub,Atlanta,GA,4.53,19.03,28.24,650700.0,650700.0
+6,91705,54725,2445,43091,9189,All,All,All,Northwest Fulfillment,Seattle,WA,2.67,46.99,59.68,1368125.0,1368125.0
+7,91844,39813,3392,29376,7045,All,All,All,Southwest Center,Phoenix,AZ,3.69,31.98,43.35,995325.0,995325.0
+8,91955,29451,4099,20016,5336,All,All,All,Rocky Mountain Hub,Denver,CO,4.46,21.77,32.03,736275.0,736275.0
+9,92167,22465,4499,14061,3905,All,All,All,Central Plains Hub,Kansas City,MO,4.88,15.26,24.37,561625.0,561625.0
+10,91719,32095,3694,23104,5297,All,All,All,Mid-Atlantic Depot,Philadelphia,PA,4.03,25.19,34.99,802375.0,802375.0
+1,32036,13205,1899,8367,2939,All,All,Electronics,East Coast Hub,New York,NY,5.93,26.12,41.22,330125.0,330125.0
+2,32296,9043,1571,5946,1526,All,All,Electronics,Midwest Logistics Center,Chicago,IL,4.86,18.41,28.0,226075.0,226075.0
+3,32733,9319,1475,6149,1695,All,All,Electronics,Southern Gateway,Dallas,TX,4.51,18.79,28.47,232975.0,232975.0
+4,32661,18882,1470,12919,4493,All,All,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.5,39.55,57.81,472050.0,472050.0
+5,32318,9463,1439,6447,1577,All,All,Electronics,Southeast Express Hub,Atlanta,GA,4.45,19.95,29.28,236575.0,236575.0
+6,32200,19477,844,15291,3342,All,All,Electronics,Northwest Fulfillment,Seattle,WA,2.62,47.49,60.49,486925.0,486925.0
+7,32549,14554,1173,10814,2567,All,All,Electronics,Southwest Center,Phoenix,AZ,3.6,33.22,44.71,363850.0,363850.0
+8,32317,10683,1446,7285,1952,All,All,Electronics,Rocky Mountain Hub,Denver,CO,4.47,22.54,33.06,267075.0,267075.0
+9,32388,8256,1609,5242,1405,All,All,Electronics,Central Plains Hub,Kansas City,MO,4.97,16.19,25.49,206400.0,206400.0
+10,32112,11582,1293,8378,1911,All,All,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.03,26.09,36.07,289550.0,289550.0
+1,28697,12059,1783,7667,2609,All,All,Home & Kitchen,East Coast Hub,New York,NY,6.21,26.72,42.02,301475.0,301475.0
+2,28676,7878,1292,5206,1380,All,All,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.51,18.15,27.47,196950.0,196950.0
+3,28858,8325,1291,5528,1506,All,All,Home & Kitchen,Southern Gateway,Dallas,TX,4.47,19.16,28.85,208125.0,208125.0
+4,28623,16613,1316,11347,3950,All,All,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.6,39.64,58.04,415325.0,415325.0
+5,28748,8482,1323,5711,1448,All,All,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.6,19.87,29.5,212050.0,212050.0
+6,28679,17404,753,13786,2865,All,All,Home & Kitchen,Northwest Fulfillment,Seattle,WA,2.63,48.07,60.69,435100.0,435100.0
+7,28409,12660,1043,9413,2204,All,All,Home & Kitchen,Southwest Center,Phoenix,AZ,3.67,33.13,44.56,316500.0,316500.0
+8,28442,9601,1262,6612,1727,All,All,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.44,23.25,33.76,240025.0,240025.0
+9,28801,7369,1422,4621,1326,All,All,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.94,16.04,25.59,184225.0,184225.0
+10,28796,10459,1161,7603,1695,All,All,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,4.03,26.4,36.32,261475.0,261475.0
+1,25383,10645,1508,6827,2310,All,All,Apparel,East Coast Hub,New York,NY,5.94,26.9,41.94,266125.0,266125.0
+2,25797,7120,1241,4654,1225,All,All,Apparel,Midwest Logistics Center,Chicago,IL,4.81,18.04,27.6,178000.0,178000.0
+3,25481,7167,1130,4738,1299,All,All,Apparel,Southern Gateway,Dallas,TX,4.43,18.59,28.13,179175.0,179175.0
+4,25766,14849,1111,10130,3608,All,All,Apparel,Pacific Distribution Hub,Los Angeles,CA,4.31,39.32,57.63,371225.0,371225.0
+5,25723,7484,1129,5127,1228,All,All,Apparel,Southeast Express Hub,Atlanta,GA,4.39,19.93,29.09,187100.0,187100.0
+6,25694,15622,669,12371,2582,All,All,Apparel,Northwest Fulfillment,Seattle,WA,2.6,48.15,60.8,390550.0,390550.0
+7,25674,11400,943,8380,2077,All,All,Apparel,Southwest Center,Phoenix,AZ,3.67,32.64,44.4,285000.0,285000.0
+8,25569,8483,1076,5839,1568,All,All,Apparel,Rocky Mountain Hub,Denver,CO,4.21,22.84,33.18,212075.0,212075.0
+9,25750,6493,1179,4186,1128,All,All,Apparel,Central Plains Hub,Kansas City,MO,4.58,16.26,25.22,162325.0,162325.0
+10,25838,9256,1045,6688,1523,All,All,Apparel,Mid-Atlantic Depot,Philadelphia,PA,4.04,25.88,35.82,231400.0,231400.0
+1,12732,5262,787,3259,1216,All,All,Sports & Outdoors,East Coast Hub,New York,NY,6.18,25.6,41.33,131550.0,131550.0
+2,12680,3592,647,2361,584,All,All,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,5.1,18.62,28.33,89800.0,89800.0
+3,12744,3785,570,2522,693,All,All,Sports & Outdoors,Southern Gateway,Dallas,TX,4.47,19.79,29.7,94625.0,94625.0
+4,12717,7220,543,4986,1691,All,All,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,4.27,39.21,56.77,180500.0,180500.0
+5,12832,3762,621,2502,639,All,All,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.84,19.5,29.32,94050.0,94050.0
+6,12616,7694,327,6080,1287,All,All,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,2.59,48.19,60.99,192350.0,192350.0
+7,12686,5703,489,4251,963,All,All,Sports & Outdoors,Southwest Center,Phoenix,AZ,3.85,33.51,44.96,142575.0,142575.0
+8,12816,4191,574,2888,729,All,All,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.48,22.53,32.7,104775.0,104775.0
+9,12777,3250,640,2010,600,All,All,Sports & Outdoors,Central Plains Hub,Kansas City,MO,5.01,15.73,25.44,81250.0,81250.0
+10,12631,4552,466,3330,756,All,All,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.69,26.36,36.04,113800.0,113800.0
+1,12688,5202,794,3272,1136,All,All,Beauty & Health,East Coast Hub,New York,NY,6.26,25.79,41.0,130050.0,130050.0
+2,12835,3592,611,2371,610,All,All,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.76,18.47,27.99,89800.0,89800.0
+3,12861,3716,615,2428,673,All,All,Beauty & Health,Southern Gateway,Dallas,TX,4.78,18.88,28.89,92900.0,92900.0
+4,12833,7379,564,5037,1778,All,All,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.39,39.25,57.5,184475.0,184475.0
+5,12976,3804,560,2607,637,All,All,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.32,20.09,29.32,95100.0,95100.0
+6,12804,7752,310,6129,1313,All,All,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.42,47.87,60.54,193800.0,193800.0
+7,12858,5843,431,4350,1062,All,All,Beauty & Health,Southwest Center,Phoenix,AZ,3.35,33.83,45.44,146075.0,146075.0
+8,12763,4312,568,2956,788,All,All,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.45,23.16,33.79,107800.0,107800.0
+9,12861,3301,599,2093,609,All,All,Beauty & Health,Central Plains Hub,Kansas City,MO,4.66,16.27,25.67,82525.0,82525.0
+10,12786,4571,504,3336,731,All,All,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,3.94,26.09,35.75,114275.0,114275.0
+1,11451,4779,679,3046,1054,All,All,Books,East Coast Hub,New York,NY,5.93,26.6,41.73,119475.0,119475.0
+2,11539,3179,507,2126,546,All,All,Books,Midwest Logistics Center,Chicago,IL,4.39,18.42,27.55,79475.0,79475.0
+3,11503,3387,537,2270,580,All,All,Books,Southern Gateway,Dallas,TX,4.67,19.73,29.44,84675.0,84675.0
+4,11518,6693,522,4628,1543,All,All,Books,Pacific Distribution Hub,Los Angeles,CA,4.53,40.18,58.11,167325.0,167325.0
+5,11451,3411,487,2353,571,All,All,Books,Southeast Express Hub,Atlanta,GA,4.25,20.55,29.79,85275.0,85275.0
+6,11554,7033,321,5497,1215,All,All,Books,Northwest Fulfillment,Seattle,WA,2.78,47.58,60.87,175825.0,175825.0
+7,11474,5247,405,3923,919,All,All,Books,Southwest Center,Phoenix,AZ,3.53,34.19,45.73,131175.0,131175.0
+8,11594,3880,490,2704,686,All,All,Books,Rocky Mountain Hub,Denver,CO,4.23,23.32,33.47,97000.0,97000.0
+9,11515,3052,580,1939,533,All,All,Books,Central Plains Hub,Kansas City,MO,5.04,16.84,26.5,76300.0,76300.0
+10,11441,4103,460,2956,687,All,All,Books,Mid-Atlantic Depot,Philadelphia,PA,4.02,25.84,35.86,102575.0,102575.0
+1,85540,36361,5135,23135,8091,All,Inter-State / Long-Haul,All,East Coast Hub,New York,NY,6.0,27.05,42.51,909025.0,909025.0
+2,85944,24271,4050,16049,4172,All,Inter-State / Long-Haul,All,Midwest Logistics Center,Chicago,IL,4.71,18.67,28.24,606775.0,606775.0
+3,80271,24520,3653,16363,4504,All,Inter-State / Long-Haul,All,Southern Gateway,Dallas,TX,4.55,20.38,30.55,613000.0,613000.0
+4,86114,51693,3722,35536,12435,All,Inter-State / Long-Haul,All,Pacific Distribution Hub,Los Angeles,CA,4.32,41.27,60.03,1292325.0,1292325.0
+5,86046,25520,3854,17377,4289,All,Inter-State / Long-Haul,All,Southeast Express Hub,Atlanta,GA,4.48,20.2,29.66,638000.0,638000.0
+6,85357,54217,2139,42921,9157,All,Inter-State / Long-Haul,All,Northwest Fulfillment,Seattle,WA,2.51,50.28,63.52,1355425.0,1355425.0
+7,85531,39287,3048,29227,7012,All,Inter-State / Long-Haul,All,Southwest Center,Phoenix,AZ,3.56,34.17,45.93,982175.0,982175.0
+8,85940,28982,3811,19858,5313,All,Inter-State / Long-Haul,All,Rocky Mountain Hub,Denver,CO,4.43,23.11,33.72,724550.0,724550.0
+9,86080,21980,4220,13891,3869,All,Inter-State / Long-Haul,All,Central Plains Hub,Kansas City,MO,4.9,16.14,25.53,549500.0,549500.0
+10,85577,31647,3407,22963,5277,All,Inter-State / Long-Haul,All,Mid-Atlantic Depot,Philadelphia,PA,3.98,26.83,36.98,791175.0,791175.0
+1,29922,12972,1752,8298,2922,All,Inter-State / Long-Haul,Electronics,East Coast Hub,New York,NY,5.86,27.73,43.35,324300.0,324300.0
+2,30185,8860,1462,5881,1517,All,Inter-State / Long-Haul,Electronics,Midwest Logistics Center,Chicago,IL,4.84,19.48,29.35,221500.0,221500.0
+3,28476,8921,1244,6010,1667,All,Inter-State / Long-Haul,Electronics,Southern Gateway,Dallas,TX,4.37,21.11,31.33,223025.0,223025.0
+4,30577,18645,1310,12864,4471,All,Inter-State / Long-Haul,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.28,42.07,60.98,466125.0,466125.0
+5,30163,9283,1330,6382,1571,All,Inter-State / Long-Haul,Electronics,Southeast Express Hub,Atlanta,GA,4.41,21.16,30.78,232075.0,232075.0
+6,29975,19315,747,15237,3331,All,Inter-State / Long-Haul,Electronics,Northwest Fulfillment,Seattle,WA,2.49,50.83,64.44,482875.0,482875.0
+7,30332,14374,1058,10764,2552,All,Inter-State / Long-Haul,Electronics,Southwest Center,Phoenix,AZ,3.49,35.49,47.39,359350.0,359350.0
+8,30196,10504,1342,7220,1942,All,Inter-State / Long-Haul,Electronics,Rocky Mountain Hub,Denver,CO,4.44,23.91,34.79,262600.0,262600.0
+9,30219,8089,1520,5174,1395,All,Inter-State / Long-Haul,Electronics,Central Plains Hub,Kansas City,MO,5.03,17.12,26.77,202225.0,202225.0
+10,29904,11416,1195,8318,1903,All,Inter-State / Long-Haul,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.0,27.82,38.18,285400.0,285400.0
+1,26806,11803,1601,7613,2589,All,Inter-State / Long-Haul,Home & Kitchen,East Coast Hub,New York,NY,5.97,28.4,44.03,295075.0,295075.0
+2,26855,7726,1203,5150,1373,All,Inter-State / Long-Haul,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.48,19.18,28.77,193150.0,193150.0
+3,25089,7971,1115,5380,1476,All,Inter-State / Long-Haul,Home & Kitchen,Southern Gateway,Dallas,TX,4.44,21.44,31.77,199275.0,199275.0
+4,26691,16386,1160,11288,3938,All,Inter-State / Long-Haul,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.35,42.29,61.39,409650.0,409650.0
+5,26830,8311,1215,5659,1437,All,Inter-State / Long-Haul,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.53,21.09,30.98,207775.0,207775.0
+6,26698,17220,652,13715,2853,All,Inter-State / Long-Haul,Home & Kitchen,Northwest Fulfillment,Seattle,WA,2.44,51.37,64.5,430500.0,430500.0
+7,26480,12487,928,9367,2192,All,Inter-State / Long-Haul,Home & Kitchen,Southwest Center,Phoenix,AZ,3.5,35.37,47.16,312175.0,312175.0
+8,26566,9430,1166,6546,1718,All,Inter-State / Long-Haul,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.39,24.64,35.5,235750.0,235750.0
+9,26928,7197,1329,4554,1314,All,Inter-State / Long-Haul,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.94,16.91,26.73,179925.0,179925.0
+10,26919,10303,1069,7551,1683,All,Inter-State / Long-Haul,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,3.97,28.05,38.27,257575.0,257575.0
+1,23731,10476,1398,6785,2293,All,Inter-State / Long-Haul,Apparel,East Coast Hub,New York,NY,5.89,28.59,44.14,261900.0,261900.0
+2,24043,6975,1154,4614,1207,All,Inter-State / Long-Haul,Apparel,Midwest Logistics Center,Chicago,IL,4.8,19.19,29.01,174375.0,174375.0
+3,22092,6839,972,4596,1271,All,Inter-State / Long-Haul,Apparel,Southern Gateway,Dallas,TX,4.4,20.8,30.96,170975.0,170975.0
+4,24144,14665,983,10087,3595,All,Inter-State / Long-Haul,Apparel,Pacific Distribution Hub,Los Angeles,CA,4.07,41.78,60.74,366625.0,366625.0
+5,23964,7334,1035,5080,1219,All,Inter-State / Long-Haul,Apparel,Southeast Express Hub,Atlanta,GA,4.32,21.2,30.6,183350.0,183350.0
+6,23916,15482,587,12320,2575,All,Inter-State / Long-Haul,Apparel,Northwest Fulfillment,Seattle,WA,2.45,51.51,64.73,387050.0,387050.0
+7,23885,11249,842,8335,2072,All,Inter-State / Long-Haul,Apparel,Southwest Center,Phoenix,AZ,3.53,34.9,47.1,281225.0,281225.0
+8,23875,8358,997,5800,1561,All,Inter-State / Long-Haul,Apparel,Rocky Mountain Hub,Denver,CO,4.18,24.29,35.01,208950.0,208950.0
+9,24040,6356,1103,4142,1111,All,Inter-State / Long-Haul,Apparel,Central Plains Hub,Kansas City,MO,4.59,17.23,26.44,158900.0,158900.0
+10,24057,9122,960,6644,1518,All,Inter-State / Long-Haul,Apparel,Mid-Atlantic Depot,Philadelphia,PA,3.99,27.62,37.92,228050.0,228050.0
+1,11920,5159,713,3235,1211,All,Inter-State / Long-Haul,Sports & Outdoors,East Coast Hub,New York,NY,5.98,27.14,43.28,128975.0,128975.0
+2,11876,3510,598,2333,579,All,Inter-State / Long-Haul,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,5.04,19.64,29.56,87750.0,87750.0
+3,11127,3629,494,2452,683,All,Inter-State / Long-Haul,Sports & Outdoors,Southern Gateway,Dallas,TX,4.44,22.04,32.61,90725.0,90725.0
+4,11827,7124,475,4962,1687,All,Inter-State / Long-Haul,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,4.02,41.95,60.24,178100.0,178100.0
+5,12007,3685,576,2474,635,All,Inter-State / Long-Haul,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.8,20.6,30.69,92125.0,92125.0
+6,11756,7617,284,6050,1283,All,Inter-State / Long-Haul,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,2.42,51.46,64.79,190425.0,190425.0
+7,11826,5629,441,4232,956,All,Inter-State / Long-Haul,Sports & Outdoors,Southwest Center,Phoenix,AZ,3.73,35.79,47.6,140725.0,140725.0
+8,12005,4135,539,2868,728,All,Inter-State / Long-Haul,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.49,23.89,34.44,103375.0,103375.0
+9,11951,3181,599,1989,593,All,Inter-State / Long-Haul,Sports & Outdoors,Central Plains Hub,Kansas City,MO,5.01,16.64,26.62,79525.0,79525.0
+10,11821,4499,434,3311,754,All,Inter-State / Long-Haul,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.67,28.01,38.06,112475.0,112475.0
+1,11826,5107,730,3248,1129,All,Inter-State / Long-Haul,Beauty & Health,East Coast Hub,New York,NY,6.17,27.46,43.18,127675.0,127675.0
+2,11982,3518,572,2342,604,All,Inter-State / Long-Haul,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.77,19.55,29.36,87950.0,87950.0
+3,11195,3556,531,2367,658,All,Inter-State / Long-Haul,Beauty & Health,Southern Gateway,Dallas,TX,4.74,21.14,31.76,88900.0,88900.0
+4,11963,7286,499,5017,1770,All,Inter-State / Long-Haul,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.17,41.94,60.9,182150.0,182150.0
+5,12147,3741,518,2590,633,All,Inter-State / Long-Haul,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.26,21.32,30.8,93525.0,93525.0
+6,11883,7686,270,6111,1305,All,Inter-State / Long-Haul,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.27,51.43,64.68,192150.0,192150.0
+7,11978,5764,386,4321,1057,All,Inter-State / Long-Haul,Beauty & Health,Southwest Center,Phoenix,AZ,3.22,36.07,48.12,144100.0,144100.0
+8,11956,4248,527,2934,787,All,Inter-State / Long-Haul,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.41,24.54,35.53,106200.0,106200.0
+9,11973,3232,555,2074,603,All,Inter-State / Long-Haul,Beauty & Health,Central Plains Hub,Kansas City,MO,4.64,17.32,26.99,80800.0,80800.0
+10,11890,4506,464,3313,729,All,Inter-State / Long-Haul,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,3.9,27.86,37.9,112650.0,112650.0
+1,10692,4695,624,3021,1050,All,Inter-State / Long-Haul,Books,East Coast Hub,New York,NY,5.84,28.25,43.91,117375.0,117375.0
+2,10746,3124,476,2104,544,All,Inter-State / Long-Haul,Books,Midwest Logistics Center,Chicago,IL,4.43,19.58,29.07,78100.0,78100.0
+3,10035,3241,457,2217,567,All,Inter-State / Long-Haul,Books,Southern Gateway,Dallas,TX,4.55,22.09,32.3,81025.0,81025.0
+4,10710,6605,462,4602,1541,All,Inter-State / Long-Haul,Books,Pacific Distribution Hub,Los Angeles,CA,4.31,42.97,61.67,165125.0,165125.0
+5,10696,3348,450,2333,565,All,Inter-State / Long-Haul,Books,Southeast Express Hub,Atlanta,GA,4.21,21.81,31.3,83700.0,83700.0
+6,10787,6955,275,5473,1207,All,Inter-State / Long-Haul,Books,Northwest Fulfillment,Seattle,WA,2.55,50.74,64.48,173875.0,173875.0
+7,10699,5179,367,3899,913,All,Inter-State / Long-Haul,Books,Southwest Center,Phoenix,AZ,3.43,36.44,48.41,129475.0,129475.0
+8,10869,3829,453,2695,681,All,Inter-State / Long-Haul,Books,Rocky Mountain Hub,Denver,CO,4.17,24.8,35.23,95725.0,95725.0
+9,10796,2987,542,1916,529,All,Inter-State / Long-Haul,Books,Central Plains Hub,Kansas City,MO,5.02,17.75,27.67,74675.0,74675.0
+10,10727,4046,421,2940,685,All,Inter-State / Long-Haul,Books,Mid-Atlantic Depot,Philadelphia,PA,3.92,27.41,37.72,101150.0,101150.0
+1,6115,684,472,167,45,All,Intra-State / Local,All,East Coast Hub,New York,NY,7.72,2.73,11.19,17100.0,17100.0
+2,6065,492,306,159,27,All,Intra-State / Local,All,Midwest Logistics Center,Chicago,IL,5.05,2.62,8.11,12300.0,12300.0
+3,12055,1119,607,430,82,All,Intra-State / Local,All,Southern Gateway,Dallas,TX,5.04,3.57,9.28,27975.0,27975.0
+4,6156,666,476,152,38,All,Intra-State / Local,All,Pacific Distribution Hub,Los Angeles,CA,7.73,2.47,10.82,16650.0,16650.0
+5,6108,508,324,158,26,All,Intra-State / Local,All,Southeast Express Hub,Atlanta,GA,5.3,2.59,8.32,12700.0,12700.0
+6,6348,508,306,170,32,All,Intra-State / Local,All,Northwest Fulfillment,Seattle,WA,4.82,2.68,8.0,12700.0,12700.0
+7,6313,526,344,149,33,All,Intra-State / Local,All,Southwest Center,Phoenix,AZ,5.45,2.36,8.33,13150.0,13150.0
+8,6015,469,288,158,23,All,Intra-State / Local,All,Rocky Mountain Hub,Denver,CO,4.79,2.63,7.8,11725.0,11725.0
+9,6087,485,279,170,36,All,Intra-State / Local,All,Central Plains Hub,Kansas City,MO,4.58,2.79,7.97,12125.0,12125.0
+10,6142,448,287,141,20,All,Intra-State / Local,All,Mid-Atlantic Depot,Philadelphia,PA,4.67,2.3,7.29,11200.0,11200.0
+1,2114,233,147,69,17,All,Intra-State / Local,Electronics,East Coast Hub,New York,NY,6.95,3.26,11.02,5825.0,5825.0
+2,2111,183,109,65,9,All,Intra-State / Local,Electronics,Midwest Logistics Center,Chicago,IL,5.16,3.08,8.67,4575.0,4575.0
+3,4257,398,231,139,28,All,Intra-State / Local,Electronics,Southern Gateway,Dallas,TX,5.43,3.27,9.35,9950.0,9950.0
+4,2084,237,160,55,22,All,Intra-State / Local,Electronics,Pacific Distribution Hub,Los Angeles,CA,7.68,2.64,11.37,5925.0,5925.0
+5,2155,180,109,65,6,All,Intra-State / Local,Electronics,Southeast Express Hub,Atlanta,GA,5.06,3.02,8.35,4500.0,4500.0
+6,2225,162,97,54,11,All,Intra-State / Local,Electronics,Northwest Fulfillment,Seattle,WA,4.36,2.43,7.28,4050.0,4050.0
+7,2217,180,115,50,15,All,Intra-State / Local,Electronics,Southwest Center,Phoenix,AZ,5.19,2.26,8.12,4500.0,4500.0
+8,2121,179,104,65,10,All,Intra-State / Local,Electronics,Rocky Mountain Hub,Denver,CO,4.9,3.06,8.44,4475.0,4475.0
+9,2169,167,89,68,10,All,Intra-State / Local,Electronics,Central Plains Hub,Kansas City,MO,4.1,3.14,7.7,4175.0,4175.0
+10,2208,166,98,60,8,All,Intra-State / Local,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.44,2.72,7.52,4150.0,4150.0
+1,1891,256,182,54,20,All,Intra-State / Local,Home & Kitchen,East Coast Hub,New York,NY,9.62,2.86,13.54,6400.0,6400.0
+2,1821,152,89,56,7,All,Intra-State / Local,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.89,3.08,8.35,3800.0,3800.0
+3,3769,354,176,148,30,All,Intra-State / Local,Home & Kitchen,Southern Gateway,Dallas,TX,4.67,3.93,9.39,8850.0,8850.0
+4,1932,227,156,59,12,All,Intra-State / Local,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,8.07,3.05,11.75,5675.0,5675.0
+5,1918,171,108,52,11,All,Intra-State / Local,Home & Kitchen,Southeast Express Hub,Atlanta,GA,5.63,2.71,8.92,4275.0,4275.0
+6,1981,184,101,71,12,All,Intra-State / Local,Home & Kitchen,Northwest Fulfillment,Seattle,WA,5.1,3.58,9.29,4600.0,4600.0
+7,1929,173,115,46,12,All,Intra-State / Local,Home & Kitchen,Southwest Center,Phoenix,AZ,5.96,2.38,8.97,4325.0,4325.0
+8,1876,171,96,66,9,All,Intra-State / Local,Home & Kitchen,Rocky Mountain Hub,Denver,CO,5.12,3.52,9.12,4275.0,4275.0
+9,1873,172,93,67,12,All,Intra-State / Local,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.97,3.58,9.18,4300.0,4300.0
+10,1877,156,92,52,12,All,Intra-State / Local,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,4.9,2.77,8.31,3900.0,3900.0
+1,1652,169,110,42,17,All,Intra-State / Local,Apparel,East Coast Hub,New York,NY,6.66,2.54,10.23,4225.0,4225.0
+2,1754,145,87,40,18,All,Intra-State / Local,Apparel,Midwest Logistics Center,Chicago,IL,4.96,2.28,8.27,3625.0,3625.0
+3,3389,328,158,142,28,All,Intra-State / Local,Apparel,Southern Gateway,Dallas,TX,4.66,4.19,9.68,8200.0,8200.0
+4,1622,184,128,43,13,All,Intra-State / Local,Apparel,Pacific Distribution Hub,Los Angeles,CA,7.89,2.65,11.34,4600.0,4600.0
+5,1759,150,94,47,9,All,Intra-State / Local,Apparel,Southeast Express Hub,Atlanta,GA,5.34,2.67,8.53,3750.0,3750.0
+6,1778,140,82,51,7,All,Intra-State / Local,Apparel,Northwest Fulfillment,Seattle,WA,4.61,2.87,7.87,3500.0,3500.0
+7,1789,151,101,45,5,All,Intra-State / Local,Apparel,Southwest Center,Phoenix,AZ,5.65,2.52,8.44,3775.0,3775.0
+8,1694,125,79,39,7,All,Intra-State / Local,Apparel,Rocky Mountain Hub,Denver,CO,4.66,2.3,7.38,3125.0,3125.0
+9,1710,137,76,44,17,All,Intra-State / Local,Apparel,Central Plains Hub,Kansas City,MO,4.44,2.57,8.01,3425.0,3425.0
+10,1781,134,85,44,5,All,Intra-State / Local,Apparel,Mid-Atlantic Depot,Philadelphia,PA,4.77,2.47,7.52,3350.0,3350.0
+1,812,103,74,24,5,All,Intra-State / Local,Sports & Outdoors,East Coast Hub,New York,NY,9.11,2.96,12.68,2575.0,2575.0
+2,804,82,49,28,5,All,Intra-State / Local,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,6.09,3.48,10.2,2050.0,2050.0
+3,1617,156,76,70,10,All,Intra-State / Local,Sports & Outdoors,Southern Gateway,Dallas,TX,4.7,4.33,9.65,3900.0,3900.0
+4,890,96,68,24,4,All,Intra-State / Local,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,7.64,2.7,10.79,2400.0,2400.0
+5,825,77,45,28,4,All,Intra-State / Local,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,5.45,3.39,9.33,1925.0,1925.0
+6,860,77,43,30,4,All,Intra-State / Local,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,5.0,3.49,8.95,1925.0,1925.0
+7,860,74,48,19,7,All,Intra-State / Local,Sports & Outdoors,Southwest Center,Phoenix,AZ,5.58,2.21,8.6,1850.0,1850.0
+8,811,56,35,20,1,All,Intra-State / Local,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.32,2.47,6.91,1400.0,1400.0
+9,826,69,41,21,7,All,Intra-State / Local,Sports & Outdoors,Central Plains Hub,Kansas City,MO,4.96,2.54,8.35,1725.0,1725.0
+10,810,53,32,19,2,All,Intra-State / Local,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.95,2.35,6.54,1325.0,1325.0
+1,862,95,64,24,7,All,Intra-State / Local,Beauty & Health,East Coast Hub,New York,NY,7.42,2.78,11.02,2375.0,2375.0
+2,853,74,39,29,6,All,Intra-State / Local,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.57,3.4,8.68,1850.0,1850.0
+3,1666,160,84,61,15,All,Intra-State / Local,Beauty & Health,Southern Gateway,Dallas,TX,5.04,3.66,9.6,4000.0,4000.0
+4,870,93,65,20,8,All,Intra-State / Local,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,7.47,2.3,10.69,2325.0,2325.0
+5,829,63,42,17,4,All,Intra-State / Local,Beauty & Health,Southeast Express Hub,Atlanta,GA,5.07,2.05,7.6,1575.0,1575.0
+6,921,66,40,18,8,All,Intra-State / Local,Beauty & Health,Northwest Fulfillment,Seattle,WA,4.34,1.95,7.17,1650.0,1650.0
+7,880,79,45,29,5,All,Intra-State / Local,Beauty & Health,Southwest Center,Phoenix,AZ,5.11,3.3,8.98,1975.0,1975.0
+8,807,64,41,22,1,All,Intra-State / Local,Beauty & Health,Rocky Mountain Hub,Denver,CO,5.08,2.73,7.93,1600.0,1600.0
+9,888,69,44,19,6,All,Intra-State / Local,Beauty & Health,Central Plains Hub,Kansas City,MO,4.95,2.14,7.77,1725.0,1725.0
+10,896,65,40,23,2,All,Intra-State / Local,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,4.46,2.57,7.25,1625.0,1625.0
+1,759,84,55,25,4,All,Intra-State / Local,Books,East Coast Hub,New York,NY,7.25,3.29,11.07,2100.0,2100.0
+2,793,55,31,22,2,All,Intra-State / Local,Books,Midwest Logistics Center,Chicago,IL,3.91,2.77,6.94,1375.0,1375.0
+3,1468,146,80,53,13,All,Intra-State / Local,Books,Southern Gateway,Dallas,TX,5.45,3.61,9.95,3650.0,3650.0
+4,808,88,60,26,2,All,Intra-State / Local,Books,Pacific Distribution Hub,Los Angeles,CA,7.43,3.22,10.89,2200.0,2200.0
+5,755,63,37,20,6,All,Intra-State / Local,Books,Southeast Express Hub,Atlanta,GA,4.9,2.65,8.34,1575.0,1575.0
+6,767,78,46,24,8,All,Intra-State / Local,Books,Northwest Fulfillment,Seattle,WA,6.0,3.13,10.17,1950.0,1950.0
+7,775,68,38,24,6,All,Intra-State / Local,Books,Southwest Center,Phoenix,AZ,4.9,3.1,8.77,1700.0,1700.0
+8,725,51,37,9,5,All,Intra-State / Local,Books,Rocky Mountain Hub,Denver,CO,5.1,1.24,7.03,1275.0,1275.0
+9,719,65,38,23,4,All,Intra-State / Local,Books,Central Plains Hub,Kansas City,MO,5.29,3.2,9.04,1625.0,1625.0
+10,714,57,39,16,2,All,Intra-State / Local,Books,Mid-Atlantic Depot,Philadelphia,PA,5.46,2.24,7.98,1425.0,1425.0
+1,36761,14684,2317,9166,3201,2022,All,All,East Coast Hub,New York,NY,6.3,24.93,39.94,367100.0,367100.0
+2,36732,9991,1754,6544,1693,2022,All,All,Midwest Logistics Center,Chicago,IL,4.78,17.82,27.2,249775.0,249775.0
+3,36948,10148,1696,6638,1814,2022,All,All,Southern Gateway,Dallas,TX,4.59,17.97,27.47,253700.0,253700.0
+4,36605,20874,1680,14126,5068,2022,All,All,Pacific Distribution Hub,Los Angeles,CA,4.59,38.59,57.02,521850.0,521850.0
+5,36679,10507,1684,7061,1762,2022,All,All,Southeast Express Hub,Atlanta,GA,4.59,19.25,28.65,262675.0,262675.0
+6,36800,22015,1006,17253,3756,2022,All,All,Northwest Fulfillment,Seattle,WA,2.73,46.88,59.82,550375.0,550375.0
+7,36701,15936,1412,11675,2849,2022,All,All,Southwest Center,Phoenix,AZ,3.85,31.81,43.42,398400.0,398400.0
+8,36929,11834,1695,8031,2108,2022,All,All,Rocky Mountain Hub,Denver,CO,4.59,21.75,32.05,295850.0,295850.0
+9,36763,9055,1847,5604,1604,2022,All,All,Central Plains Hub,Kansas City,MO,5.02,15.24,24.63,226375.0,226375.0
+10,36592,12955,1475,9291,2189,2022,All,All,Mid-Atlantic Depot,Philadelphia,PA,4.03,25.39,35.4,323875.0,323875.0
+1,12807,5222,782,3296,1144,2022,All,Electronics,East Coast Hub,New York,NY,6.11,25.74,40.77,130550.0,130550.0
+2,12994,3681,661,2397,623,2022,All,Electronics,Midwest Logistics Center,Chicago,IL,5.09,18.45,28.33,92025.0,92025.0
+3,12996,3667,584,2419,664,2022,All,Electronics,Southern Gateway,Dallas,TX,4.49,18.61,28.22,91675.0,91675.0
+4,12989,7543,606,5102,1835,2022,All,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.67,39.28,58.07,188575.0,188575.0
+5,12843,3797,555,2567,675,2022,All,Electronics,Southeast Express Hub,Atlanta,GA,4.32,19.99,29.56,94925.0,94925.0
+6,13007,7855,346,6106,1403,2022,All,Electronics,Northwest Fulfillment,Seattle,WA,2.66,46.94,60.39,196375.0,196375.0
+7,12989,5832,482,4320,1030,2022,All,Electronics,Southwest Center,Phoenix,AZ,3.71,33.26,44.9,145800.0,145800.0
+8,13062,4311,590,2939,782,2022,All,Electronics,Rocky Mountain Hub,Denver,CO,4.52,22.5,33.0,107775.0,107775.0
+9,12803,3326,646,2130,550,2022,All,Electronics,Central Plains Hub,Kansas City,MO,5.05,16.64,25.98,83150.0,83150.0
+10,12856,4695,499,3381,815,2022,All,Electronics,Mid-Atlantic Depot,Philadelphia,PA,3.88,26.3,36.52,117375.0,117375.0
+1,11480,4813,743,3024,1046,2022,All,Home & Kitchen,East Coast Hub,New York,NY,6.47,26.34,41.93,120325.0,120325.0
+2,11385,3119,504,2061,554,2022,All,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.43,18.1,27.4,77975.0,77975.0
+3,11593,3322,501,2226,595,2022,All,Home & Kitchen,Southern Gateway,Dallas,TX,4.32,19.2,28.66,83050.0,83050.0
+4,11326,6608,522,4475,1611,2022,All,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.61,39.51,58.34,165200.0,165200.0
+5,11353,3406,526,2277,603,2022,All,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.63,20.06,30.0,85150.0,85150.0
+6,11451,7006,312,5540,1154,2022,All,Home & Kitchen,Northwest Fulfillment,Seattle,WA,2.72,48.38,61.18,175150.0,175150.0
+7,11315,5046,449,3718,879,2022,All,Home & Kitchen,Southwest Center,Phoenix,AZ,3.97,32.86,44.6,126150.0,126150.0
+8,11278,3879,523,2672,684,2022,All,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.64,23.69,34.39,96975.0,96975.0
+9,11536,2937,574,1802,561,2022,All,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.98,15.62,25.46,73425.0,73425.0
+10,11408,4231,493,3039,699,2022,All,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,4.32,26.64,37.09,105775.0,105775.0
+1,10196,4229,599,2721,909,2022,All,Apparel,East Coast Hub,New York,NY,5.87,26.69,41.48,105725.0,105725.0
+2,10247,2834,488,1872,474,2022,All,Apparel,Midwest Logistics Center,Chicago,IL,4.76,18.27,27.66,70850.0,70850.0
+3,10233,2802,464,1851,487,2022,All,Apparel,Southern Gateway,Dallas,TX,4.53,18.09,27.38,70050.0,70050.0
+4,10177,5925,435,4042,1448,2022,All,Apparel,Pacific Distribution Hub,Los Angeles,CA,4.27,39.72,58.22,148125.0,148125.0
+5,10171,2991,445,2066,480,2022,All,Apparel,Southeast Express Hub,Atlanta,GA,4.38,20.31,29.41,74775.0,74775.0
+6,10305,6320,278,4994,1048,2022,All,Apparel,Northwest Fulfillment,Seattle,WA,2.7,48.46,61.33,158000.0,158000.0
+7,10311,4597,384,3346,867,2022,All,Apparel,Southwest Center,Phoenix,AZ,3.72,32.45,44.58,114925.0,114925.0
+8,10273,3400,436,2346,618,2022,All,Apparel,Rocky Mountain Hub,Denver,CO,4.24,22.84,33.1,85000.0,85000.0
+9,10234,2640,493,1679,468,2022,All,Apparel,Central Plains Hub,Kansas City,MO,4.82,16.41,25.8,66000.0,66000.0
+10,10301,3710,432,2661,617,2022,All,Apparel,Mid-Atlantic Depot,Philadelphia,PA,4.19,25.83,36.02,92750.0,92750.0
+1,5150,2122,336,1309,477,2022,All,Sports & Outdoors,East Coast Hub,New York,NY,6.52,25.42,41.2,53050.0,53050.0
+2,5050,1419,253,930,236,2022,All,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,5.01,18.42,28.1,35475.0,35475.0
+3,5157,1520,217,1016,287,2022,All,Sports & Outdoors,Southern Gateway,Dallas,TX,4.21,19.7,29.47,38000.0,38000.0
+4,5102,2940,218,2044,678,2022,All,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,4.27,40.06,57.62,73500.0,73500.0
+5,5089,1544,245,1041,258,2022,All,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.81,20.46,30.34,38600.0,38600.0
+6,5080,3126,144,2463,519,2022,All,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,2.83,48.48,61.54,78150.0,78150.0
+7,5066,2254,209,1658,387,2022,All,Sports & Outdoors,Southwest Center,Phoenix,AZ,4.13,32.73,44.49,56350.0,56350.0
+8,5128,1696,233,1172,291,2022,All,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.54,22.85,33.07,42400.0,42400.0
+9,5191,1284,247,806,231,2022,All,Sports & Outdoors,Central Plains Hub,Kansas City,MO,4.76,15.53,24.74,32100.0,32100.0
+10,4982,1816,175,1313,328,2022,All,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.51,26.35,36.45,45400.0,45400.0
+1,5049,2064,326,1292,446,2022,All,Beauty & Health,East Coast Hub,New York,NY,6.46,25.59,40.88,51600.0,51600.0
+2,5140,1486,256,979,251,2022,All,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.98,19.05,28.91,37150.0,37150.0
+3,5183,1447,247,932,268,2022,All,Beauty & Health,Southern Gateway,Dallas,TX,4.77,17.98,27.92,36175.0,36175.0
+4,5020,2922,220,1977,725,2022,All,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.38,39.38,58.21,73050.0,73050.0
+5,5328,1581,260,1083,238,2022,All,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.88,20.33,29.67,39525.0,39525.0
+6,5128,3110,131,2437,542,2022,All,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.55,47.52,60.65,77750.0,77750.0
+7,5157,2350,194,1737,419,2022,All,Beauty & Health,Southwest Center,Phoenix,AZ,3.76,33.68,45.57,58750.0,58750.0
+8,5153,1705,247,1153,305,2022,All,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.79,22.38,33.09,42625.0,42625.0
+9,5134,1352,277,814,261,2022,All,Beauty & Health,Central Plains Hub,Kansas City,MO,5.4,15.86,26.33,33800.0,33800.0
+10,5163,1850,183,1364,303,2022,All,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,3.54,26.42,35.83,46250.0,46250.0
+1,4600,1897,266,1217,414,2022,All,Books,East Coast Hub,New York,NY,5.78,26.46,41.24,47425.0,47425.0
+2,4671,1343,227,886,230,2022,All,Books,Midwest Logistics Center,Chicago,IL,4.86,18.97,28.75,33575.0,33575.0
+3,4550,1335,219,895,221,2022,All,Books,Southern Gateway,Dallas,TX,4.81,19.67,29.34,33375.0,33375.0
+4,4597,2678,228,1823,627,2022,All,Books,Pacific Distribution Hub,Los Angeles,CA,4.96,39.66,58.26,66950.0,66950.0
+5,4565,1379,194,946,239,2022,All,Books,Southeast Express Hub,Atlanta,GA,4.25,20.72,30.21,34475.0,34475.0
+6,4576,2789,136,2170,483,2022,All,Books,Northwest Fulfillment,Seattle,WA,2.97,47.42,60.95,69725.0,69725.0
+7,4588,2073,161,1543,369,2022,All,Books,Southwest Center,Phoenix,AZ,3.51,33.63,45.18,51825.0,51825.0
+8,4543,1540,202,1083,255,2022,All,Books,Rocky Mountain Hub,Denver,CO,4.45,23.84,33.9,38500.0,38500.0
+9,4623,1260,248,790,222,2022,All,Books,Central Plains Hub,Kansas City,MO,5.36,17.09,27.26,31500.0,31500.0
+10,4598,1665,179,1210,276,2022,All,Books,Mid-Atlantic Depot,Philadelphia,PA,3.89,26.32,36.21,41625.0,41625.0
+1,34273,14397,2117,9098,3182,2022,Inter-State / Long-Haul,All,East Coast Hub,New York,NY,6.18,26.55,42.01,359925.0,359925.0
+2,34336,9797,1637,6480,1680,2022,Inter-State / Long-Haul,All,Midwest Logistics Center,Chicago,IL,4.77,18.87,28.53,244925.0,244925.0
+3,32160,9677,1430,6464,1783,2022,Inter-State / Long-Haul,All,Southern Gateway,Dallas,TX,4.45,20.1,30.09,241925.0,241925.0
+4,34166,20597,1475,14071,5051,2022,Inter-State / Long-Haul,All,Pacific Distribution Hub,Los Angeles,CA,4.32,41.18,60.29,514925.0,514925.0
+5,34248,10316,1573,6992,1751,2022,Inter-State / Long-Haul,All,Southeast Express Hub,Atlanta,GA,4.59,20.42,30.12,257900.0,257900.0
+6,34242,21818,877,17189,3752,2022,Inter-State / Long-Haul,All,Northwest Fulfillment,Seattle,WA,2.56,50.2,63.72,545450.0,545450.0
+7,34171,15728,1275,11615,2838,2022,Inter-State / Long-Haul,All,Southwest Center,Phoenix,AZ,3.73,33.99,46.03,393200.0,393200.0
+8,34472,11622,1568,7958,2096,2022,Inter-State / Long-Haul,All,Rocky Mountain Hub,Denver,CO,4.55,23.09,33.71,290550.0,290550.0
+9,34351,8856,1731,5533,1592,2022,Inter-State / Long-Haul,All,Central Plains Hub,Kansas City,MO,5.04,16.11,25.78,221400.0,221400.0
+10,34163,12790,1371,9238,2181,2022,Inter-State / Long-Haul,All,Mid-Atlantic Depot,Philadelphia,PA,4.01,27.04,37.44,319750.0,319750.0
+1,11965,5116,714,3266,1136,2022,Inter-State / Long-Haul,Electronics,East Coast Hub,New York,NY,5.97,27.3,42.76,127900.0,127900.0
+2,12138,3601,617,2366,618,2022,Inter-State / Long-Haul,Electronics,Midwest Logistics Center,Chicago,IL,5.08,19.49,29.67,90025.0,90025.0
+3,11332,3502,488,2356,658,2022,Inter-State / Long-Haul,Electronics,Southern Gateway,Dallas,TX,4.31,20.79,30.9,87550.0,87550.0
+4,12152,7448,543,5081,1824,2022,Inter-State / Long-Haul,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.47,41.81,61.29,186200.0,186200.0
+5,11976,3725,516,2536,673,2022,Inter-State / Long-Haul,Electronics,Southeast Express Hub,Atlanta,GA,4.31,21.18,31.1,93125.0,93125.0
+6,12081,7791,304,6085,1402,2022,Inter-State / Long-Haul,Electronics,Northwest Fulfillment,Seattle,WA,2.52,50.37,64.49,194775.0,194775.0
+7,12131,5767,441,4301,1025,2022,Inter-State / Long-Haul,Electronics,Southwest Center,Phoenix,AZ,3.64,35.45,47.54,144175.0,144175.0
+8,12201,4230,545,2907,778,2022,Inter-State / Long-Haul,Electronics,Rocky Mountain Hub,Denver,CO,4.47,23.83,34.67,105750.0,105750.0
+9,11942,3255,601,2108,546,2022,Inter-State / Long-Haul,Electronics,Central Plains Hub,Kansas City,MO,5.03,17.65,27.26,81375.0,81375.0
+10,11990,4636,465,3360,811,2022,Inter-State / Long-Haul,Electronics,Mid-Atlantic Depot,Philadelphia,PA,3.88,28.02,38.67,115900.0,115900.0
+1,10691,4706,664,3005,1037,2022,Inter-State / Long-Haul,Home & Kitchen,East Coast Hub,New York,NY,6.21,28.11,44.02,117650.0,117650.0
+2,10674,3057,470,2036,551,2022,Inter-State / Long-Haul,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.4,19.07,28.64,76425.0,76425.0
+3,10097,3175,419,2170,586,2022,Inter-State / Long-Haul,Home & Kitchen,Southern Gateway,Dallas,TX,4.15,21.49,31.44,79375.0,79375.0
+4,10557,6512,454,4453,1605,2022,Inter-State / Long-Haul,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.3,42.18,61.68,162800.0,162800.0
+5,10615,3351,492,2260,599,2022,Inter-State / Long-Haul,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.63,21.29,31.57,83775.0,83775.0
+6,10668,6929,264,5514,1151,2022,Inter-State / Long-Haul,Home & Kitchen,Northwest Fulfillment,Seattle,WA,2.47,51.69,64.95,173225.0,173225.0
+7,10561,4980,403,3702,875,2022,Inter-State / Long-Haul,Home & Kitchen,Southwest Center,Phoenix,AZ,3.82,35.05,47.15,124500.0,124500.0
+8,10542,3813,486,2648,679,2022,Inter-State / Long-Haul,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.61,25.12,36.17,95325.0,95325.0
+9,10810,2865,533,1773,559,2022,Inter-State / Long-Haul,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.93,16.4,26.5,71625.0,71625.0
+10,10680,4174,454,3025,695,2022,Inter-State / Long-Haul,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,4.25,28.32,39.08,104350.0,104350.0
+1,9529,4164,560,2705,899,2022,Inter-State / Long-Haul,Apparel,East Coast Hub,New York,NY,5.88,28.39,43.7,104100.0,104100.0
+2,9552,2777,457,1854,466,2022,Inter-State / Long-Haul,Apparel,Midwest Logistics Center,Chicago,IL,4.78,19.41,29.07,69425.0,69425.0
+3,8878,2657,397,1786,474,2022,Inter-State / Long-Haul,Apparel,Southern Gateway,Dallas,TX,4.47,20.12,29.93,66425.0,66425.0
+4,9535,5846,378,4025,1443,2022,Inter-State / Long-Haul,Apparel,Pacific Distribution Hub,Los Angeles,CA,3.96,42.21,61.31,146150.0,146150.0
+5,9479,2937,418,2045,474,2022,Inter-State / Long-Haul,Apparel,Southeast Express Hub,Atlanta,GA,4.41,21.57,30.98,73425.0,73425.0
+6,9612,6265,244,4974,1047,2022,Inter-State / Long-Haul,Apparel,Northwest Fulfillment,Seattle,WA,2.54,51.75,65.18,156625.0,156625.0
+7,9585,4528,337,3326,865,2022,Inter-State / Long-Haul,Apparel,Southwest Center,Phoenix,AZ,3.52,34.7,47.24,113200.0,113200.0
+8,9551,3333,395,2325,613,2022,Inter-State / Long-Haul,Apparel,Rocky Mountain Hub,Denver,CO,4.14,24.34,34.9,83325.0,83325.0
+9,9565,2586,460,1662,464,2022,Inter-State / Long-Haul,Apparel,Central Plains Hub,Kansas City,MO,4.81,17.38,27.04,64650.0,64650.0
+10,9599,3662,401,2646,615,2022,Inter-State / Long-Haul,Apparel,Mid-Atlantic Depot,Philadelphia,PA,4.18,27.57,38.15,91550.0,91550.0
+1,4825,2076,301,1298,477,2022,Inter-State / Long-Haul,Sports & Outdoors,East Coast Hub,New York,NY,6.24,26.9,43.03,51900.0,51900.0
+2,4707,1387,231,922,234,2022,Inter-State / Long-Haul,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,4.91,19.59,29.47,34675.0,34675.0
+3,4488,1446,181,985,280,2022,Inter-State / Long-Haul,Sports & Outdoors,Southern Gateway,Dallas,TX,4.03,21.95,32.22,36150.0,36150.0
+4,4748,2909,192,2040,677,2022,Inter-State / Long-Haul,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,4.04,42.97,61.27,72725.0,72725.0
+5,4779,1510,225,1029,256,2022,Inter-State / Long-Haul,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.71,21.53,31.6,37750.0,37750.0
+6,4720,3090,122,2449,519,2022,Inter-State / Long-Haul,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,2.58,51.89,65.47,77250.0,77250.0
+7,4740,2227,190,1654,383,2022,Inter-State / Long-Haul,Sports & Outdoors,Southwest Center,Phoenix,AZ,4.01,34.89,46.98,55675.0,55675.0
+8,4787,1669,219,1159,291,2022,Inter-State / Long-Haul,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.57,24.21,34.87,41725.0,41725.0
+9,4828,1254,230,798,226,2022,Inter-State / Long-Haul,Sports & Outdoors,Central Plains Hub,Kansas City,MO,4.76,16.53,25.97,31350.0,31350.0
+10,4675,1795,161,1307,327,2022,Inter-State / Long-Haul,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.44,27.96,38.4,44875.0,44875.0
+1,4693,2027,298,1284,445,2022,Inter-State / Long-Haul,Beauty & Health,East Coast Hub,New York,NY,6.35,27.36,43.19,50675.0,50675.0
+2,4821,1455,241,965,249,2022,Inter-State / Long-Haul,Beauty & Health,Midwest Logistics Center,Chicago,IL,5.0,20.02,30.18,36375.0,36375.0
+3,4512,1385,211,911,263,2022,Inter-State / Long-Haul,Beauty & Health,Southern Gateway,Dallas,TX,4.68,20.19,30.7,34625.0,34625.0
+4,4700,2884,193,1969,722,2022,Inter-State / Long-Haul,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.11,41.89,61.36,72100.0,72100.0
+5,4993,1555,246,1072,237,2022,Inter-State / Long-Haul,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.93,21.47,31.14,38875.0,38875.0
+6,4741,3076,107,2429,540,2022,Inter-State / Long-Haul,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.26,51.23,64.88,76900.0,76900.0
+7,4794,2313,172,1724,417,2022,Inter-State / Long-Haul,Beauty & Health,Southwest Center,Phoenix,AZ,3.59,35.96,48.25,57825.0,57825.0
+8,4823,1674,228,1141,305,2022,Inter-State / Long-Haul,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.73,23.66,34.71,41850.0,41850.0
+9,4786,1320,255,807,258,2022,Inter-State / Long-Haul,Beauty & Health,Central Plains Hub,Kansas City,MO,5.33,16.86,27.58,33000.0,33000.0
+10,4810,1831,175,1354,302,2022,Inter-State / Long-Haul,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,3.64,28.15,38.07,45775.0,45775.0
+1,4306,1866,246,1207,413,2022,Inter-State / Long-Haul,Books,East Coast Hub,New York,NY,5.71,28.03,43.33,46650.0,46650.0
+2,4363,1320,214,877,229,2022,Inter-State / Long-Haul,Books,Midwest Logistics Center,Chicago,IL,4.9,20.1,30.25,33000.0,33000.0
+3,4019,1272,178,877,217,2022,Inter-State / Long-Haul,Books,Southern Gateway,Dallas,TX,4.43,21.82,31.65,31800.0,31800.0
+4,4293,2634,198,1811,625,2022,Inter-State / Long-Haul,Books,Pacific Distribution Hub,Los Angeles,CA,4.61,42.18,61.36,65850.0,65850.0
+5,4263,1359,183,938,238,2022,Inter-State / Long-Haul,Books,Southeast Express Hub,Atlanta,GA,4.29,22.0,31.88,33975.0,33975.0
+6,4261,2762,119,2161,482,2022,Inter-State / Long-Haul,Books,Northwest Fulfillment,Seattle,WA,2.79,50.72,64.82,69050.0,69050.0
+7,4269,2047,148,1531,368,2022,Inter-State / Long-Haul,Books,Southwest Center,Phoenix,AZ,3.47,35.86,47.95,51175.0,51175.0
+8,4262,1522,191,1080,251,2022,Inter-State / Long-Haul,Books,Rocky Mountain Hub,Denver,CO,4.48,25.34,35.71,38050.0,38050.0
+9,4335,1232,234,777,221,2022,Inter-State / Long-Haul,Books,Central Plains Hub,Kansas City,MO,5.4,17.92,28.42,30800.0,30800.0
+10,4313,1644,166,1203,275,2022,Inter-State / Long-Haul,Books,Mid-Atlantic Depot,Philadelphia,PA,3.85,27.89,38.12,41100.0,41100.0
+1,2488,287,200,68,19,2022,Intra-State / Local,All,East Coast Hub,New York,NY,8.04,2.73,11.54,7175.0,7175.0
+2,2396,194,117,64,13,2022,Intra-State / Local,All,Midwest Logistics Center,Chicago,IL,4.88,2.67,8.1,4850.0,4850.0
+3,4788,471,266,174,31,2022,Intra-State / Local,All,Southern Gateway,Dallas,TX,5.56,3.63,9.84,11775.0,11775.0
+4,2439,277,205,55,17,2022,Intra-State / Local,All,Pacific Distribution Hub,Los Angeles,CA,8.41,2.26,11.36,6925.0,6925.0
+5,2431,191,111,69,11,2022,Intra-State / Local,All,Southeast Express Hub,Atlanta,GA,4.57,2.84,7.86,4775.0,4775.0
+6,2558,197,129,64,4,2022,Intra-State / Local,All,Northwest Fulfillment,Seattle,WA,5.04,2.5,7.7,4925.0,4925.0
+7,2530,208,137,60,11,2022,Intra-State / Local,All,Southwest Center,Phoenix,AZ,5.42,2.37,8.22,5200.0,5200.0
+8,2457,212,127,73,12,2022,Intra-State / Local,All,Rocky Mountain Hub,Denver,CO,5.17,2.97,8.63,5300.0,5300.0
+9,2412,199,116,71,12,2022,Intra-State / Local,All,Central Plains Hub,Kansas City,MO,4.81,2.94,8.25,4975.0,4975.0
+10,2429,165,104,53,8,2022,Intra-State / Local,All,Mid-Atlantic Depot,Philadelphia,PA,4.28,2.18,6.79,4125.0,4125.0
+1,842,106,68,30,8,2022,Intra-State / Local,Electronics,East Coast Hub,New York,NY,8.08,3.56,12.59,2650.0,2650.0
+2,856,80,44,31,5,2022,Intra-State / Local,Electronics,Midwest Logistics Center,Chicago,IL,5.14,3.62,9.35,2000.0,2000.0
+3,1664,165,96,63,6,2022,Intra-State / Local,Electronics,Southern Gateway,Dallas,TX,5.77,3.79,9.92,4125.0,4125.0
+4,837,95,63,21,11,2022,Intra-State / Local,Electronics,Pacific Distribution Hub,Los Angeles,CA,7.53,2.51,11.35,2375.0,2375.0
+5,867,72,39,31,2,2022,Intra-State / Local,Electronics,Southeast Express Hub,Atlanta,GA,4.5,3.58,8.3,1800.0,1800.0
+6,926,64,42,21,1,2022,Intra-State / Local,Electronics,Northwest Fulfillment,Seattle,WA,4.54,2.27,6.91,1600.0,1600.0
+7,858,65,41,19,5,2022,Intra-State / Local,Electronics,Southwest Center,Phoenix,AZ,4.78,2.21,7.58,1625.0,1625.0
+8,861,81,45,32,4,2022,Intra-State / Local,Electronics,Rocky Mountain Hub,Denver,CO,5.23,3.72,9.41,2025.0,2025.0
+9,861,71,45,22,4,2022,Intra-State / Local,Electronics,Central Plains Hub,Kansas City,MO,5.23,2.56,8.25,1775.0,1775.0
+10,866,59,34,21,4,2022,Intra-State / Local,Electronics,Mid-Atlantic Depot,Philadelphia,PA,3.93,2.42,6.81,1475.0,1475.0
+1,789,107,79,19,9,2022,Intra-State / Local,Home & Kitchen,East Coast Hub,New York,NY,10.01,2.41,13.56,2675.0,2675.0
+2,711,62,34,25,3,2022,Intra-State / Local,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.78,3.52,8.72,1550.0,1550.0
+3,1496,147,82,56,9,2022,Intra-State / Local,Home & Kitchen,Southern Gateway,Dallas,TX,5.48,3.74,9.83,3675.0,3675.0
+4,769,96,68,22,6,2022,Intra-State / Local,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,8.84,2.86,12.48,2400.0,2400.0
+5,738,55,34,17,4,2022,Intra-State / Local,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.61,2.3,7.45,1375.0,1375.0
+6,783,77,48,26,3,2022,Intra-State / Local,Home & Kitchen,Northwest Fulfillment,Seattle,WA,6.13,3.32,9.83,1925.0,1925.0
+7,754,66,46,16,4,2022,Intra-State / Local,Home & Kitchen,Southwest Center,Phoenix,AZ,6.1,2.12,8.75,1650.0,1650.0
+8,736,66,37,24,5,2022,Intra-State / Local,Home & Kitchen,Rocky Mountain Hub,Denver,CO,5.03,3.26,8.97,1650.0,1650.0
+9,726,72,41,29,2,2022,Intra-State / Local,Home & Kitchen,Central Plains Hub,Kansas City,MO,5.65,3.99,9.92,1800.0,1800.0
+10,728,57,39,14,4,2022,Intra-State / Local,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,5.36,1.92,7.83,1425.0,1425.0
+1,667,65,39,16,10,2022,Intra-State / Local,Apparel,East Coast Hub,New York,NY,5.85,2.4,9.75,1625.0,1625.0
+2,695,57,31,18,8,2022,Intra-State / Local,Apparel,Midwest Logistics Center,Chicago,IL,4.46,2.59,8.2,1425.0,1425.0
+3,1355,145,67,65,13,2022,Intra-State / Local,Apparel,Southern Gateway,Dallas,TX,4.94,4.8,10.7,3625.0,3625.0
+4,642,79,57,17,5,2022,Intra-State / Local,Apparel,Pacific Distribution Hub,Los Angeles,CA,8.88,2.65,12.31,1975.0,1975.0
+5,692,54,27,21,6,2022,Intra-State / Local,Apparel,Southeast Express Hub,Atlanta,GA,3.9,3.03,7.8,1350.0,1350.0
+6,693,55,34,20,1,2022,Intra-State / Local,Apparel,Northwest Fulfillment,Seattle,WA,4.91,2.89,7.94,1375.0,1375.0
+7,726,69,47,20,2,2022,Intra-State / Local,Apparel,Southwest Center,Phoenix,AZ,6.47,2.75,9.5,1725.0,1725.0
+8,722,67,41,21,5,2022,Intra-State / Local,Apparel,Rocky Mountain Hub,Denver,CO,5.68,2.91,9.28,1675.0,1675.0
+9,669,54,33,17,4,2022,Intra-State / Local,Apparel,Central Plains Hub,Kansas City,MO,4.93,2.54,8.07,1350.0,1350.0
+10,702,48,31,15,2,2022,Intra-State / Local,Apparel,Mid-Atlantic Depot,Philadelphia,PA,4.42,2.14,6.84,1200.0,1200.0
+1,325,46,35,11,0,2022,Intra-State / Local,Sports & Outdoors,East Coast Hub,New York,NY,10.77,3.38,14.15,1150.0,1150.0
+2,343,32,22,8,2,2022,Intra-State / Local,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,6.41,2.33,9.33,800.0,800.0
+3,669,74,36,31,7,2022,Intra-State / Local,Sports & Outdoors,Southern Gateway,Dallas,TX,5.38,4.63,11.06,1850.0,1850.0
+4,354,31,26,4,1,2022,Intra-State / Local,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,7.34,1.13,8.76,775.0,775.0
+5,310,34,20,12,2,2022,Intra-State / Local,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,6.45,3.87,10.97,850.0,850.0
+6,360,36,22,14,0,2022,Intra-State / Local,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,6.11,3.89,10.0,900.0,900.0
+7,326,27,19,4,4,2022,Intra-State / Local,Sports & Outdoors,Southwest Center,Phoenix,AZ,5.83,1.23,8.28,675.0,675.0
+8,341,27,14,13,0,2022,Intra-State / Local,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.11,3.81,7.92,675.0,675.0
+9,363,30,17,8,5,2022,Intra-State / Local,Sports & Outdoors,Central Plains Hub,Kansas City,MO,4.68,2.2,8.26,750.0,750.0
+10,307,21,14,6,1,2022,Intra-State / Local,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,4.56,1.95,6.84,525.0,525.0
+1,356,37,28,8,1,2022,Intra-State / Local,Beauty & Health,East Coast Hub,New York,NY,7.87,2.25,10.39,925.0,925.0
+2,319,31,15,14,2,2022,Intra-State / Local,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.7,4.39,9.72,775.0,775.0
+3,671,62,36,21,5,2022,Intra-State / Local,Beauty & Health,Southern Gateway,Dallas,TX,5.37,3.13,9.24,1550.0,1550.0
+4,320,38,27,8,3,2022,Intra-State / Local,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,8.44,2.5,11.88,950.0,950.0
+5,335,26,14,11,1,2022,Intra-State / Local,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.18,3.28,7.76,650.0,650.0
+6,387,34,24,8,2,2022,Intra-State / Local,Beauty & Health,Northwest Fulfillment,Seattle,WA,6.2,2.07,8.79,850.0,850.0
+7,363,37,22,13,2,2022,Intra-State / Local,Beauty & Health,Southwest Center,Phoenix,AZ,6.06,3.58,10.19,925.0,925.0
+8,330,31,19,12,0,2022,Intra-State / Local,Beauty & Health,Rocky Mountain Hub,Denver,CO,5.76,3.64,9.39,775.0,775.0
+9,348,32,22,7,3,2022,Intra-State / Local,Beauty & Health,Central Plains Hub,Kansas City,MO,6.32,2.01,9.2,800.0,800.0
+10,353,19,8,10,1,2022,Intra-State / Local,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,2.27,2.83,5.38,475.0,475.0
+1,294,31,20,10,1,2022,Intra-State / Local,Books,East Coast Hub,New York,NY,6.8,3.4,10.54,775.0,775.0
+2,308,23,13,9,1,2022,Intra-State / Local,Books,Midwest Logistics Center,Chicago,IL,4.22,2.92,7.47,575.0,575.0
+3,531,63,41,18,4,2022,Intra-State / Local,Books,Southern Gateway,Dallas,TX,7.72,3.39,11.86,1575.0,1575.0
+4,304,44,30,12,2,2022,Intra-State / Local,Books,Pacific Distribution Hub,Los Angeles,CA,9.87,3.95,14.47,1100.0,1100.0
+5,302,20,11,8,1,2022,Intra-State / Local,Books,Southeast Express Hub,Atlanta,GA,3.64,2.65,6.62,500.0,500.0
+6,315,27,17,9,1,2022,Intra-State / Local,Books,Northwest Fulfillment,Seattle,WA,5.4,2.86,8.57,675.0,675.0
+7,319,26,13,12,1,2022,Intra-State / Local,Books,Southwest Center,Phoenix,AZ,4.08,3.76,8.15,650.0,650.0
+8,281,18,11,3,4,2022,Intra-State / Local,Books,Rocky Mountain Hub,Denver,CO,3.91,1.07,6.41,450.0,450.0
+9,288,28,14,13,1,2022,Intra-State / Local,Books,Central Plains Hub,Kansas City,MO,4.86,4.51,9.72,700.0,700.0
+10,285,21,13,7,1,2022,Intra-State / Local,Books,Mid-Atlantic Depot,Philadelphia,PA,4.56,2.46,7.37,525.0,525.0
+1,36506,15003,2236,9391,3376,2023,All,All,East Coast Hub,New York,NY,6.13,25.72,41.1,375075.0,375075.0
+2,37015,10031,1798,6526,1707,2023,All,All,Midwest Logistics Center,Chicago,IL,4.86,17.63,27.1,250775.0,250775.0
+3,37085,10496,1760,6839,1897,2023,All,All,Southern Gateway,Dallas,TX,4.75,18.44,28.3,262400.0,262400.0
+4,37220,21131,1699,14394,5038,2023,All,All,Pacific Distribution Hub,Los Angeles,CA,4.56,38.67,56.77,528275.0,528275.0
+5,37136,10528,1708,7080,1740,2023,All,All,Southeast Express Hub,Atlanta,GA,4.6,19.07,28.35,263200.0,263200.0
+6,36906,22081,1016,17380,3685,2023,All,All,Northwest Fulfillment,Seattle,WA,2.75,47.09,59.83,552025.0,552025.0
+7,36829,15977,1372,11796,2809,2023,All,All,Southwest Center,Phoenix,AZ,3.73,32.03,43.38,399425.0,399425.0
+8,36771,11804,1631,8004,2169,2023,All,All,Rocky Mountain Hub,Denver,CO,4.44,21.77,32.1,295100.0,295100.0
+9,37172,9098,1801,5697,1600,2023,All,All,Central Plains Hub,Kansas City,MO,4.85,15.33,24.48,227450.0,227450.0
+10,36785,12780,1505,9146,2129,2023,All,All,Mid-Atlantic Depot,Philadelphia,PA,4.09,24.86,34.74,319500.0,319500.0
+1,12786,5361,767,3364,1230,2023,All,Electronics,East Coast Hub,New York,NY,6.0,26.31,41.93,134025.0,134025.0
+2,12800,3602,626,2367,609,2023,All,Electronics,Midwest Logistics Center,Chicago,IL,4.89,18.49,28.14,90050.0,90050.0
+3,13216,3806,596,2523,687,2023,All,Electronics,Southern Gateway,Dallas,TX,4.51,19.09,28.8,95150.0,95150.0
+4,13224,7658,594,5256,1808,2023,All,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.49,39.75,57.91,191450.0,191450.0
+5,13031,3818,599,2618,601,2023,All,Electronics,Southeast Express Hub,Atlanta,GA,4.6,20.09,29.3,95450.0,95450.0
+6,12830,7774,340,6112,1322,2023,All,Electronics,Northwest Fulfillment,Seattle,WA,2.65,47.64,60.59,194350.0,194350.0
+7,13013,5767,475,4273,1019,2023,All,Electronics,Southwest Center,Phoenix,AZ,3.65,32.84,44.32,144175.0,144175.0
+8,12755,4227,592,2864,771,2023,All,Electronics,Rocky Mountain Hub,Denver,CO,4.64,22.45,33.14,105675.0,105675.0
+9,13210,3396,666,2131,599,2023,All,Electronics,Central Plains Hub,Kansas City,MO,5.04,16.13,25.71,84900.0,84900.0
+10,12855,4558,530,3282,746,2023,All,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.12,25.53,35.46,113950.0,113950.0
+1,11350,4843,704,3057,1082,2023,All,Home & Kitchen,East Coast Hub,New York,NY,6.2,26.93,42.67,121075.0,121075.0
+2,11664,3273,545,2143,585,2023,All,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.67,18.37,28.06,81825.0,81825.0
+3,11565,3400,558,2224,618,2023,All,Home & Kitchen,Southern Gateway,Dallas,TX,4.82,19.23,29.4,85000.0,85000.0
+4,11593,6726,537,4585,1604,2023,All,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.63,39.55,58.02,168150.0,168150.0
+5,11686,3489,561,2335,593,2023,All,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.8,19.98,29.86,87225.0,87225.0
+6,11577,7011,329,5504,1178,2023,All,Home & Kitchen,Northwest Fulfillment,Seattle,WA,2.84,47.54,60.56,175275.0,175275.0
+7,11365,5023,409,3739,875,2023,All,Home & Kitchen,Southwest Center,Phoenix,AZ,3.6,32.9,44.2,125575.0,125575.0
+8,11457,3813,498,2611,704,2023,All,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.35,22.79,33.28,95325.0,95325.0
+9,11572,3026,561,1928,537,2023,All,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.85,16.66,26.15,75650.0,75650.0
+10,11594,4147,456,3011,680,2023,All,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,3.93,25.97,35.77,103675.0,103675.0
+1,10137,4301,624,2717,960,2023,All,Apparel,East Coast Hub,New York,NY,6.16,26.8,42.43,107525.0,107525.0
+2,10415,2904,517,1882,505,2023,All,Apparel,Midwest Logistics Center,Chicago,IL,4.96,18.07,27.88,72600.0,72600.0
+3,10288,2999,449,1987,563,2023,All,Apparel,Southern Gateway,Dallas,TX,4.36,19.31,29.15,74975.0,74975.0
+4,10435,6001,481,4047,1473,2023,All,Apparel,Pacific Distribution Hub,Los Angeles,CA,4.61,38.78,57.51,150025.0,150025.0
+5,10405,3034,471,2058,505,2023,All,Apparel,Southeast Express Hub,Atlanta,GA,4.53,19.78,29.16,75850.0,75850.0
+6,10341,6292,274,4999,1019,2023,All,Apparel,Northwest Fulfillment,Seattle,WA,2.65,48.34,60.85,157300.0,157300.0
+7,10227,4554,388,3354,812,2023,All,Apparel,Southwest Center,Phoenix,AZ,3.79,32.8,44.53,113850.0,113850.0
+8,10185,3390,424,2330,636,2023,All,Apparel,Rocky Mountain Hub,Denver,CO,4.16,22.88,33.28,84750.0,84750.0
+9,10362,2537,449,1649,439,2023,All,Apparel,Central Plains Hub,Kansas City,MO,4.33,15.91,24.48,63425.0,63425.0
+10,10387,3645,413,2634,598,2023,All,Apparel,Mid-Atlantic Depot,Philadelphia,PA,3.98,25.36,35.09,91125.0,91125.0
+1,4996,2057,294,1273,490,2023,All,Sports & Outdoors,East Coast Hub,New York,NY,5.88,25.48,41.17,51425.0,51425.0
+2,5134,1480,277,964,239,2023,All,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,5.4,18.78,28.83,37000.0,37000.0
+3,5054,1507,250,990,267,2023,All,Sports & Outdoors,Southern Gateway,Dallas,TX,4.95,19.59,29.82,37675.0,37675.0
+4,5112,2861,203,1955,703,2023,All,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,3.97,38.24,55.97,71525.0,71525.0
+5,5224,1499,255,979,265,2023,All,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.88,18.74,28.69,37475.0,37475.0
+6,5087,3104,135,2463,506,2023,All,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,2.65,48.42,61.02,77600.0,77600.0
+7,5130,2344,192,1750,402,2023,All,Sports & Outdoors,Southwest Center,Phoenix,AZ,3.74,34.11,45.69,58600.0,58600.0
+8,5136,1709,237,1176,296,2023,All,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.61,22.9,33.27,42725.0,42725.0
+9,5166,1377,277,847,253,2023,All,Sports & Outdoors,Central Plains Hub,Kansas City,MO,5.36,16.4,26.66,34425.0,34425.0
+10,5082,1835,192,1336,307,2023,All,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.78,26.29,36.11,45875.0,45875.0
+1,5069,2097,323,1307,467,2023,All,Beauty & Health,East Coast Hub,New York,NY,6.37,25.78,41.37,52425.0,52425.0
+2,5203,1439,251,943,245,2023,All,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.82,18.12,27.66,35975.0,35975.0
+3,5131,1570,264,1007,299,2023,All,Beauty & Health,Southern Gateway,Dallas,TX,5.15,19.63,30.6,39250.0,39250.0
+4,5154,2946,228,2019,699,2023,All,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.42,39.17,57.16,73650.0,73650.0
+5,5058,1496,212,1006,278,2023,All,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.19,19.89,29.58,37400.0,37400.0
+6,5169,3099,120,2462,517,2023,All,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.32,47.63,59.95,77475.0,77475.0
+7,5164,2348,168,1755,425,2023,All,Beauty & Health,Southwest Center,Phoenix,AZ,3.25,33.99,45.47,58700.0,58700.0
+8,5066,1735,217,1201,317,2023,All,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.28,23.71,34.25,43375.0,43375.0
+9,5194,1301,231,830,240,2023,All,Beauty & Health,Central Plains Hub,Kansas City,MO,4.45,15.98,25.05,32525.0,32525.0
+10,4989,1791,217,1285,289,2023,All,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,4.35,25.76,35.9,44775.0,44775.0
+1,4594,1959,284,1245,430,2023,All,Books,East Coast Hub,New York,NY,6.18,27.1,42.64,48975.0,48975.0
+2,4623,1243,191,831,221,2023,All,Books,Midwest Logistics Center,Chicago,IL,4.13,17.98,26.89,31075.0,31075.0
+3,4639,1376,221,916,239,2023,All,Books,Southern Gateway,Dallas,TX,4.76,19.75,29.66,34400.0,34400.0
+4,4663,2720,190,1887,643,2023,All,Books,Pacific Distribution Hub,Los Angeles,CA,4.07,40.47,58.33,68000.0,68000.0
+5,4621,1382,207,959,216,2023,All,Books,Southeast Express Hub,Atlanta,GA,4.48,20.75,29.91,34550.0,34550.0
+6,4654,2849,121,2241,487,2023,All,Books,Northwest Fulfillment,Seattle,WA,2.6,48.15,61.22,71225.0,71225.0
+7,4609,2164,161,1633,370,2023,All,Books,Southwest Center,Phoenix,AZ,3.49,35.43,46.95,54100.0,54100.0
+8,4743,1558,200,1075,283,2023,All,Books,Rocky Mountain Hub,Denver,CO,4.22,22.66,32.85,38950.0,38950.0
+9,4622,1205,219,769,217,2023,All,Books,Central Plains Hub,Kansas City,MO,4.74,16.64,26.07,30125.0,30125.0
+10,4559,1654,197,1175,282,2023,All,Books,Mid-Atlantic Depot,Philadelphia,PA,4.32,25.77,36.28,41350.0,41350.0
+1,34089,14743,2056,9330,3357,2023,Inter-State / Long-Haul,All,East Coast Hub,New York,NY,6.03,27.37,43.25,368575.0,368575.0
+2,34576,9830,1677,6456,1697,2023,Inter-State / Long-Haul,All,Midwest Logistics Center,Chicago,IL,4.85,18.67,28.43,245750.0,245750.0
+3,32186,10045,1518,6663,1864,2023,Inter-State / Long-Haul,All,Southern Gateway,Dallas,TX,4.72,20.7,31.21,251125.0,251125.0
+4,34721,20860,1505,14332,5023,2023,Inter-State / Long-Haul,All,Pacific Distribution Hub,Los Angeles,CA,4.33,41.28,60.08,521500.0,521500.0
+5,34663,10319,1565,7025,1729,2023,Inter-State / Long-Haul,All,Southeast Express Hub,Atlanta,GA,4.51,20.27,29.77,257975.0,257975.0
+6,34377,21870,895,17309,3666,2023,Inter-State / Long-Haul,All,Northwest Fulfillment,Seattle,WA,2.6,50.35,63.62,546750.0,546750.0
+7,34286,15763,1232,11738,2793,2023,Inter-State / Long-Haul,All,Southwest Center,Phoenix,AZ,3.59,34.24,45.98,394075.0,394075.0
+8,34387,11637,1516,7958,2163,2023,Inter-State / Long-Haul,All,Rocky Mountain Hub,Denver,CO,4.41,23.14,33.84,290925.0,290925.0
+9,34762,8905,1684,5638,1583,2023,Inter-State / Long-Haul,All,Central Plains Hub,Kansas City,MO,4.84,16.22,25.62,222625.0,222625.0
+10,34269,12582,1380,9081,2121,2023,Inter-State / Long-Haul,All,Mid-Atlantic Depot,Philadelphia,PA,4.03,26.5,36.72,314550.0,314550.0
+1,11925,5279,718,3339,1222,2023,Inter-State / Long-Haul,Electronics,East Coast Hub,New York,NY,6.02,28.0,44.27,131975.0,131975.0
+2,11993,3534,587,2341,606,2023,Inter-State / Long-Haul,Electronics,Midwest Logistics Center,Chicago,IL,4.89,19.52,29.47,88350.0,88350.0
+3,11492,3649,500,2474,675,2023,Inter-State / Long-Haul,Electronics,Southern Gateway,Dallas,TX,4.35,21.53,31.75,91225.0,91225.0
+4,12388,7551,520,5231,1800,2023,Inter-State / Long-Haul,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.2,42.23,60.95,188775.0,188775.0
+5,12171,3751,556,2598,597,2023,Inter-State / Long-Haul,Electronics,Southeast Express Hub,Atlanta,GA,4.57,21.35,30.82,93775.0,93775.0
+6,11963,7709,302,6090,1317,2023,Inter-State / Long-Haul,Electronics,Northwest Fulfillment,Seattle,WA,2.52,50.91,64.44,192725.0,192725.0
+7,12110,5693,430,4251,1012,2023,Inter-State / Long-Haul,Electronics,Southwest Center,Phoenix,AZ,3.55,35.1,47.01,142325.0,142325.0
+8,11908,4160,544,2849,767,2023,Inter-State / Long-Haul,Electronics,Rocky Mountain Hub,Denver,CO,4.57,23.93,34.93,104000.0,104000.0
+9,12345,3325,632,2098,595,2023,Inter-State / Long-Haul,Electronics,Central Plains Hub,Kansas City,MO,5.12,16.99,26.93,83125.0,83125.0
+10,11916,4480,484,3251,745,2023,Inter-State / Long-Haul,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.06,27.28,37.6,112000.0,112000.0
+1,10619,4748,640,3034,1074,2023,Inter-State / Long-Haul,Home & Kitchen,East Coast Hub,New York,NY,6.03,28.57,44.71,118700.0,118700.0
+2,10900,3210,510,2117,583,2023,Inter-State / Long-Haul,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.68,19.42,29.45,80250.0,80250.0
+3,9994,3243,483,2156,604,2023,Inter-State / Long-Haul,Home & Kitchen,Southern Gateway,Dallas,TX,4.83,21.57,32.45,81075.0,81075.0
+4,10794,6637,475,4562,1600,2023,Inter-State / Long-Haul,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.4,42.26,61.49,165925.0,165925.0
+5,10917,3409,510,2312,587,2023,Inter-State / Long-Haul,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.67,21.18,31.23,85225.0,85225.0
+6,10763,6935,291,5473,1171,2023,Inter-State / Long-Haul,Home & Kitchen,Northwest Fulfillment,Seattle,WA,2.7,50.85,64.43,173375.0,173375.0
+7,10568,4955,365,3721,869,2023,Inter-State / Long-Haul,Home & Kitchen,Southwest Center,Phoenix,AZ,3.45,35.21,46.89,123875.0,123875.0
+8,10706,3745,458,2586,701,2023,Inter-State / Long-Haul,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.28,24.15,34.98,93625.0,93625.0
+9,10815,2959,527,1903,529,2023,Inter-State / Long-Haul,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.87,17.6,27.36,73975.0,73975.0
+10,10820,4078,422,2983,673,2023,Inter-State / Long-Haul,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,3.9,27.57,37.69,101950.0,101950.0
+1,9486,4226,570,2702,954,2023,Inter-State / Long-Haul,Apparel,East Coast Hub,New York,NY,6.01,28.48,44.55,105650.0,105650.0
+2,9700,2838,477,1864,497,2023,Inter-State / Long-Haul,Apparel,Midwest Logistics Center,Chicago,IL,4.92,19.22,29.26,70950.0,70950.0
+3,8892,2871,384,1935,552,2023,Inter-State / Long-Haul,Apparel,Southern Gateway,Dallas,TX,4.32,21.76,32.29,71775.0,71775.0
+4,9760,5920,425,4027,1468,2023,Inter-State / Long-Haul,Apparel,Pacific Distribution Hub,Los Angeles,CA,4.35,41.26,60.66,148000.0,148000.0
+5,9677,2974,425,2046,503,2023,Inter-State / Long-Haul,Apparel,Southeast Express Hub,Atlanta,GA,4.39,21.14,30.73,74350.0,74350.0
+6,9612,6235,240,4981,1014,2023,Inter-State / Long-Haul,Apparel,Northwest Fulfillment,Seattle,WA,2.5,51.82,64.87,155875.0,155875.0
+7,9507,4498,351,3338,809,2023,Inter-State / Long-Haul,Apparel,Southwest Center,Phoenix,AZ,3.69,35.11,47.31,112450.0,112450.0
+8,9529,3354,396,2322,636,2023,Inter-State / Long-Haul,Apparel,Rocky Mountain Hub,Denver,CO,4.16,24.37,35.2,83850.0,83850.0
+9,9669,2481,418,1634,429,2023,Inter-State / Long-Haul,Apparel,Central Plains Hub,Kansas City,MO,4.32,16.9,25.66,62025.0,62025.0
+10,9649,3583,373,2613,597,2023,Inter-State / Long-Haul,Apparel,Mid-Atlantic Depot,Philadelphia,PA,3.87,27.08,37.13,89575.0,89575.0
+1,4668,2018,267,1265,486,2023,Inter-State / Long-Haul,Sports & Outdoors,East Coast Hub,New York,NY,5.72,27.1,43.23,50450.0,50450.0
+2,4832,1442,256,950,236,2023,Inter-State / Long-Haul,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,5.3,19.66,29.84,36050.0,36050.0
+3,4414,1449,223,962,264,2023,Inter-State / Long-Haul,Sports & Outdoors,Southern Gateway,Dallas,TX,5.05,21.79,32.83,36225.0,36225.0
+4,4734,2822,178,1944,700,2023,Inter-State / Long-Haul,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,3.76,41.06,59.61,70550.0,70550.0
+5,4877,1473,240,969,264,2023,Inter-State / Long-Haul,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.92,19.87,30.2,36825.0,36825.0
+6,4740,3071,117,2452,502,2023,Inter-State / Long-Haul,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,2.47,51.73,64.79,76775.0,76775.0
+7,4788,2315,172,1742,401,2023,Inter-State / Long-Haul,Sports & Outdoors,Southwest Center,Phoenix,AZ,3.59,36.38,48.35,57875.0,57875.0
+8,4833,1690,222,1172,296,2023,Inter-State / Long-Haul,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.59,24.25,34.97,42250.0,42250.0
+9,4866,1352,262,839,251,2023,Inter-State / Long-Haul,Sports & Outdoors,Central Plains Hub,Kansas City,MO,5.38,17.24,27.78,33800.0,33800.0
+10,4728,1807,178,1323,306,2023,Inter-State / Long-Haul,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.76,27.98,38.22,45175.0,45175.0
+1,4734,2064,299,1300,465,2023,Inter-State / Long-Haul,Beauty & Health,East Coast Hub,New York,NY,6.32,27.46,43.6,51600.0,51600.0
+2,4846,1410,234,935,241,2023,Inter-State / Long-Haul,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.83,19.29,29.1,35250.0,35250.0
+3,4490,1506,233,979,294,2023,Inter-State / Long-Haul,Beauty & Health,Southern Gateway,Dallas,TX,5.19,21.8,33.54,37650.0,37650.0
+4,4800,2913,203,2013,697,2023,Inter-State / Long-Haul,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.23,41.94,60.69,72825.0,72825.0
+5,4702,1469,192,1002,275,2023,Inter-State / Long-Haul,Beauty & Health,Southeast Express Hub,Atlanta,GA,4.08,21.31,31.24,36725.0,36725.0
+6,4794,3075,111,2452,512,2023,Inter-State / Long-Haul,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.32,51.15,64.14,76875.0,76875.0
+7,4806,2319,150,1746,423,2023,Inter-State / Long-Haul,Beauty & Health,Southwest Center,Phoenix,AZ,3.12,36.33,48.25,57975.0,57975.0
+8,4766,1715,203,1195,317,2023,Inter-State / Long-Haul,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.26,25.07,35.98,42875.0,42875.0
+9,4844,1276,213,825,238,2023,Inter-State / Long-Haul,Beauty & Health,Central Plains Hub,Kansas City,MO,4.4,17.03,26.34,31900.0,31900.0
+10,4647,1763,199,1276,288,2023,Inter-State / Long-Haul,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,4.28,27.46,37.94,44075.0,44075.0
+1,4299,1924,261,1235,428,2023,Inter-State / Long-Haul,Books,East Coast Hub,New York,NY,6.07,28.73,44.75,48100.0,48100.0
+2,4285,1220,178,821,221,2023,Inter-State / Long-Haul,Books,Midwest Logistics Center,Chicago,IL,4.15,19.16,28.47,30500.0,30500.0
+3,3997,1320,193,894,233,2023,Inter-State / Long-Haul,Books,Southern Gateway,Dallas,TX,4.83,22.37,33.02,33000.0,33000.0
+4,4337,2692,172,1877,643,2023,Inter-State / Long-Haul,Books,Pacific Distribution Hub,Los Angeles,CA,3.97,43.28,62.07,67300.0,67300.0
+5,4321,1354,190,951,213,2023,Inter-State / Long-Haul,Books,Southeast Express Hub,Atlanta,GA,4.4,22.01,31.34,33850.0,33850.0
+6,4367,2823,108,2233,482,2023,Inter-State / Long-Haul,Books,Northwest Fulfillment,Seattle,WA,2.47,51.13,64.64,70575.0,70575.0
+7,4311,2136,143,1626,367,2023,Inter-State / Long-Haul,Books,Southwest Center,Phoenix,AZ,3.32,37.72,49.55,53400.0,53400.0
+8,4426,1533,179,1072,282,2023,Inter-State / Long-Haul,Books,Rocky Mountain Hub,Denver,CO,4.04,24.22,34.64,38325.0,38325.0
+9,4344,1184,204,765,215,2023,Inter-State / Long-Haul,Books,Central Plains Hub,Kansas City,MO,4.7,17.61,27.26,29600.0,29600.0
+10,4276,1633,180,1171,282,2023,Inter-State / Long-Haul,Books,Mid-Atlantic Depot,Philadelphia,PA,4.21,27.39,38.19,40825.0,40825.0
+1,2417,260,180,61,19,2023,Intra-State / Local,All,East Coast Hub,New York,NY,7.45,2.52,10.76,6500.0,6500.0
+2,2439,201,121,70,10,2023,Intra-State / Local,All,Midwest Logistics Center,Chicago,IL,4.96,2.87,8.24,5025.0,5025.0
+3,4899,451,242,176,33,2023,Intra-State / Local,All,Southern Gateway,Dallas,TX,4.94,3.59,9.21,11275.0,11275.0
+4,2499,271,194,62,15,2023,Intra-State / Local,All,Pacific Distribution Hub,Los Angeles,CA,7.76,2.48,10.84,6775.0,6775.0
+5,2473,209,143,55,11,2023,Intra-State / Local,All,Southeast Express Hub,Atlanta,GA,5.78,2.22,8.45,5225.0,5225.0
+6,2529,211,121,71,19,2023,Intra-State / Local,All,Northwest Fulfillment,Seattle,WA,4.78,2.81,8.34,5275.0,5275.0
+7,2543,214,140,58,16,2023,Intra-State / Local,All,Southwest Center,Phoenix,AZ,5.51,2.28,8.42,5350.0,5350.0
+8,2384,167,115,46,6,2023,Intra-State / Local,All,Rocky Mountain Hub,Denver,CO,4.82,1.93,7.01,4175.0,4175.0
+9,2410,193,117,59,17,2023,Intra-State / Local,All,Central Plains Hub,Kansas City,MO,4.85,2.45,8.01,4825.0,4825.0
+10,2516,198,125,65,8,2023,Intra-State / Local,All,Mid-Atlantic Depot,Philadelphia,PA,4.97,2.58,7.87,4950.0,4950.0
+1,861,82,49,25,8,2023,Intra-State / Local,Electronics,East Coast Hub,New York,NY,5.69,2.9,9.52,2050.0,2050.0
+2,807,68,39,26,3,2023,Intra-State / Local,Electronics,Midwest Logistics Center,Chicago,IL,4.83,3.22,8.43,1700.0,1700.0
+3,1724,157,96,49,12,2023,Intra-State / Local,Electronics,Southern Gateway,Dallas,TX,5.57,2.84,9.11,3925.0,3925.0
+4,836,107,74,25,8,2023,Intra-State / Local,Electronics,Pacific Distribution Hub,Los Angeles,CA,8.85,2.99,12.8,2675.0,2675.0
+5,860,67,43,20,4,2023,Intra-State / Local,Electronics,Southeast Express Hub,Atlanta,GA,5.0,2.33,7.79,1675.0,1675.0
+6,867,65,38,22,5,2023,Intra-State / Local,Electronics,Northwest Fulfillment,Seattle,WA,4.38,2.54,7.5,1625.0,1625.0
+7,903,74,45,22,7,2023,Intra-State / Local,Electronics,Southwest Center,Phoenix,AZ,4.98,2.44,8.19,1850.0,1850.0
+8,847,67,48,15,4,2023,Intra-State / Local,Electronics,Rocky Mountain Hub,Denver,CO,5.67,1.77,7.91,1675.0,1675.0
+9,865,71,34,33,4,2023,Intra-State / Local,Electronics,Central Plains Hub,Kansas City,MO,3.93,3.82,8.21,1775.0,1775.0
+10,939,78,46,31,1,2023,Intra-State / Local,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.9,3.3,8.31,1950.0,1950.0
+1,731,95,64,23,8,2023,Intra-State / Local,Home & Kitchen,East Coast Hub,New York,NY,8.76,3.15,13.0,2375.0,2375.0
+2,764,63,35,26,2,2023,Intra-State / Local,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.58,3.4,8.25,1575.0,1575.0
+3,1571,157,75,68,14,2023,Intra-State / Local,Home & Kitchen,Southern Gateway,Dallas,TX,4.77,4.33,9.99,3925.0,3925.0
+4,799,89,62,23,4,2023,Intra-State / Local,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,7.76,2.88,11.14,2225.0,2225.0
+5,769,80,51,23,6,2023,Intra-State / Local,Home & Kitchen,Southeast Express Hub,Atlanta,GA,6.63,2.99,10.4,2000.0,2000.0
+6,814,76,38,31,7,2023,Intra-State / Local,Home & Kitchen,Northwest Fulfillment,Seattle,WA,4.67,3.81,9.34,1900.0,1900.0
+7,797,68,44,18,6,2023,Intra-State / Local,Home & Kitchen,Southwest Center,Phoenix,AZ,5.52,2.26,8.53,1700.0,1700.0
+8,751,68,40,25,3,2023,Intra-State / Local,Home & Kitchen,Rocky Mountain Hub,Denver,CO,5.33,3.33,9.05,1700.0,1700.0
+9,757,67,34,25,8,2023,Intra-State / Local,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.49,3.3,8.85,1675.0,1675.0
+10,774,69,34,28,7,2023,Intra-State / Local,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,4.39,3.62,8.91,1725.0,1725.0
+1,651,75,54,15,6,2023,Intra-State / Local,Apparel,East Coast Hub,New York,NY,8.29,2.3,11.52,1875.0,1875.0
+2,715,66,40,18,8,2023,Intra-State / Local,Apparel,Midwest Logistics Center,Chicago,IL,5.59,2.52,9.23,1650.0,1650.0
+3,1396,128,65,52,11,2023,Intra-State / Local,Apparel,Southern Gateway,Dallas,TX,4.66,3.72,9.17,3200.0,3200.0
+4,675,81,56,20,5,2023,Intra-State / Local,Apparel,Pacific Distribution Hub,Los Angeles,CA,8.3,2.96,12.0,2025.0,2025.0
+5,728,60,46,12,2,2023,Intra-State / Local,Apparel,Southeast Express Hub,Atlanta,GA,6.32,1.65,8.24,1500.0,1500.0
+6,729,57,34,18,5,2023,Intra-State / Local,Apparel,Northwest Fulfillment,Seattle,WA,4.66,2.47,7.82,1425.0,1425.0
+7,720,56,37,16,3,2023,Intra-State / Local,Apparel,Southwest Center,Phoenix,AZ,5.14,2.22,7.78,1400.0,1400.0
+8,656,36,28,8,0,2023,Intra-State / Local,Apparel,Rocky Mountain Hub,Denver,CO,4.27,1.22,5.49,900.0,900.0
+9,693,56,31,15,10,2023,Intra-State / Local,Apparel,Central Plains Hub,Kansas City,MO,4.47,2.16,8.08,1400.0,1400.0
+10,738,62,40,21,1,2023,Intra-State / Local,Apparel,Mid-Atlantic Depot,Philadelphia,PA,5.42,2.85,8.4,1550.0,1550.0
+1,328,39,27,8,4,2023,Intra-State / Local,Sports & Outdoors,East Coast Hub,New York,NY,8.23,2.44,11.89,975.0,975.0
+2,302,38,21,14,3,2023,Intra-State / Local,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,6.95,4.64,12.58,950.0,950.0
+3,640,58,27,28,3,2023,Intra-State / Local,Sports & Outdoors,Southern Gateway,Dallas,TX,4.22,4.38,9.06,1450.0,1450.0
+4,378,39,25,11,3,2023,Intra-State / Local,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,6.61,2.91,10.32,975.0,975.0
+5,347,26,15,10,1,2023,Intra-State / Local,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.32,2.88,7.49,650.0,650.0
+6,347,33,18,11,4,2023,Intra-State / Local,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,5.19,3.17,9.51,825.0,825.0
+7,342,29,20,8,1,2023,Intra-State / Local,Sports & Outdoors,Southwest Center,Phoenix,AZ,5.85,2.34,8.48,725.0,725.0
+8,303,19,15,4,0,2023,Intra-State / Local,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.95,1.32,6.27,475.0,475.0
+9,300,25,15,8,2,2023,Intra-State / Local,Sports & Outdoors,Central Plains Hub,Kansas City,MO,5.0,2.67,8.33,625.0,625.0
+10,354,28,14,13,1,2023,Intra-State / Local,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.95,3.67,7.91,700.0,700.0
+1,335,33,24,7,2,2023,Intra-State / Local,Beauty & Health,East Coast Hub,New York,NY,7.16,2.09,9.85,825.0,825.0
+2,357,29,17,8,4,2023,Intra-State / Local,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.76,2.24,8.12,725.0,725.0
+3,641,64,31,28,5,2023,Intra-State / Local,Beauty & Health,Southern Gateway,Dallas,TX,4.84,4.37,9.98,1600.0,1600.0
+4,354,33,25,6,2,2023,Intra-State / Local,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,7.06,1.69,9.32,825.0,825.0
+5,356,27,20,4,3,2023,Intra-State / Local,Beauty & Health,Southeast Express Hub,Atlanta,GA,5.62,1.12,7.58,675.0,675.0
+6,375,24,9,10,5,2023,Intra-State / Local,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.4,2.67,6.4,600.0,600.0
+7,358,29,18,9,2,2023,Intra-State / Local,Beauty & Health,Southwest Center,Phoenix,AZ,5.03,2.51,8.1,725.0,725.0
+8,300,20,14,6,0,2023,Intra-State / Local,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.67,2.0,6.67,500.0,500.0
+9,350,25,18,5,2,2023,Intra-State / Local,Beauty & Health,Central Plains Hub,Kansas City,MO,5.14,1.43,7.14,625.0,625.0
+10,342,28,18,9,1,2023,Intra-State / Local,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,5.26,2.63,8.19,700.0,700.0
+1,295,35,23,10,2,2023,Intra-State / Local,Books,East Coast Hub,New York,NY,7.8,3.39,11.86,875.0,875.0
+2,338,23,13,10,0,2023,Intra-State / Local,Books,Midwest Logistics Center,Chicago,IL,3.85,2.96,6.8,575.0,575.0
+3,642,56,28,22,6,2023,Intra-State / Local,Books,Southern Gateway,Dallas,TX,4.36,3.43,8.72,1400.0,1400.0
+4,326,28,18,10,0,2023,Intra-State / Local,Books,Pacific Distribution Hub,Los Angeles,CA,5.52,3.07,8.59,700.0,700.0
+5,300,28,17,8,3,2023,Intra-State / Local,Books,Southeast Express Hub,Atlanta,GA,5.67,2.67,9.33,700.0,700.0
+6,287,26,13,8,5,2023,Intra-State / Local,Books,Northwest Fulfillment,Seattle,WA,4.53,2.79,9.06,650.0,650.0
+7,298,28,18,7,3,2023,Intra-State / Local,Books,Southwest Center,Phoenix,AZ,6.04,2.35,9.4,700.0,700.0
+8,317,25,21,3,1,2023,Intra-State / Local,Books,Rocky Mountain Hub,Denver,CO,6.62,0.95,7.89,625.0,625.0
+9,278,21,15,4,2,2023,Intra-State / Local,Books,Central Plains Hub,Kansas City,MO,5.4,1.44,7.55,525.0,525.0
+10,283,21,17,4,0,2023,Intra-State / Local,Books,Mid-Atlantic Depot,Philadelphia,PA,6.01,1.41,7.42,525.0,525.0
+1,18388,7358,1054,4745,1559,2024,All,All,East Coast Hub,New York,NY,5.73,25.8,40.02,183950.0,183950.0
+2,18262,4741,804,3138,799,2024,All,All,Midwest Logistics Center,Chicago,IL,4.4,17.18,25.96,118525.0,118525.0
+3,18293,4995,804,3316,875,2024,All,All,Southern Gateway,Dallas,TX,4.4,18.13,27.31,124875.0,124875.0
+4,18445,10354,819,7168,2367,2024,All,All,Pacific Distribution Hub,Los Angeles,CA,4.44,38.86,56.13,258850.0,258850.0
+5,18339,4993,786,3394,813,2024,All,All,Southeast Express Hub,Atlanta,GA,4.29,18.51,27.23,124825.0,124825.0
+6,17999,10629,423,8458,1748,2024,All,All,Northwest Fulfillment,Seattle,WA,2.35,46.99,59.05,265725.0,265725.0
+7,18314,7900,608,5905,1387,2024,All,All,Southwest Center,Phoenix,AZ,3.32,32.24,43.14,197500.0,197500.0
+8,18255,5813,773,3981,1059,2024,All,All,Rocky Mountain Hub,Denver,CO,4.23,21.81,31.84,145325.0,145325.0
+9,18232,4312,851,2760,701,2024,All,All,Central Plains Hub,Kansas City,MO,4.67,15.14,23.65,107800.0,107800.0
+10,18342,6360,714,4667,979,2024,All,All,Mid-Atlantic Depot,Philadelphia,PA,3.89,25.44,34.67,159000.0,159000.0
+1,6443,2622,350,1707,565,2024,All,Electronics,East Coast Hub,New York,NY,5.43,26.49,40.7,65550.0,65550.0
+2,6502,1760,284,1182,294,2024,All,Electronics,Midwest Logistics Center,Chicago,IL,4.37,18.18,27.07,44000.0,44000.0
+3,6521,1846,295,1207,344,2024,All,Electronics,Southern Gateway,Dallas,TX,4.52,18.51,28.31,46150.0,46150.0
+4,6448,3681,270,2561,850,2024,All,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.19,39.72,57.09,92025.0,92025.0
+5,6444,1848,285,1262,301,2024,All,Electronics,Southeast Express Hub,Atlanta,GA,4.42,19.58,28.68,46200.0,46200.0
+6,6363,3848,158,3073,617,2024,All,Electronics,Northwest Fulfillment,Seattle,WA,2.48,48.29,60.47,96200.0,96200.0
+7,6547,2955,216,2221,518,2024,All,Electronics,Southwest Center,Phoenix,AZ,3.3,33.92,45.14,73875.0,73875.0
+8,6500,2145,264,1482,399,2024,All,Electronics,Rocky Mountain Hub,Denver,CO,4.06,22.8,33.0,53625.0,53625.0
+9,6375,1534,297,981,256,2024,All,Electronics,Central Plains Hub,Kansas City,MO,4.66,15.39,24.06,38350.0,38350.0
+10,6401,2329,264,1715,350,2024,All,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.12,26.79,36.38,58225.0,58225.0
+1,5867,2403,336,1586,481,2024,All,Home & Kitchen,East Coast Hub,New York,NY,5.73,27.03,40.96,60075.0,60075.0
+2,5627,1486,243,1002,241,2024,All,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.32,17.81,26.41,37150.0,37150.0
+3,5700,1603,232,1078,293,2024,All,Home & Kitchen,Southern Gateway,Dallas,TX,4.07,18.91,28.12,40075.0,40075.0
+4,5704,3279,257,2287,735,2024,All,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.51,40.09,57.49,81975.0,81975.0
+5,5709,1587,236,1099,252,2024,All,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.13,19.25,27.8,39675.0,39675.0
+6,5651,3387,112,2742,533,2024,All,Home & Kitchen,Northwest Fulfillment,Seattle,WA,1.98,48.52,59.94,84675.0,84675.0
+7,5729,2591,185,1956,450,2024,All,Home & Kitchen,Southwest Center,Phoenix,AZ,3.23,34.14,45.23,64775.0,64775.0
+8,5707,1909,241,1329,339,2024,All,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.22,23.29,33.45,47725.0,47725.0
+9,5693,1406,287,891,228,2024,All,Home & Kitchen,Central Plains Hub,Kansas City,MO,5.04,15.65,24.7,35150.0,35150.0
+10,5794,2081,212,1553,316,2024,All,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,3.66,26.8,35.92,52025.0,52025.0
+1,5050,2115,285,1389,441,2024,All,Apparel,East Coast Hub,New York,NY,5.64,27.5,41.88,52875.0,52875.0
+2,5135,1382,236,900,246,2024,All,Apparel,Midwest Logistics Center,Chicago,IL,4.6,17.53,26.91,34550.0,34550.0
+3,4960,1366,217,900,249,2024,All,Apparel,Southern Gateway,Dallas,TX,4.38,18.15,27.54,34150.0,34150.0
+4,5154,2923,195,2041,687,2024,All,Apparel,Pacific Distribution Hub,Los Angeles,CA,3.78,39.6,56.71,73075.0,73075.0
+5,5147,1459,213,1003,243,2024,All,Apparel,Southeast Express Hub,Atlanta,GA,4.14,19.49,28.35,36475.0,36475.0
+6,5048,3010,117,2378,515,2024,All,Apparel,Northwest Fulfillment,Seattle,WA,2.32,47.11,59.63,75250.0,75250.0
+7,5136,2249,171,1680,398,2024,All,Apparel,Southwest Center,Phoenix,AZ,3.33,32.71,43.79,56225.0,56225.0
+8,5111,1693,216,1163,314,2024,All,Apparel,Rocky Mountain Hub,Denver,CO,4.23,22.75,33.12,42325.0,42325.0
+9,5154,1316,237,858,221,2024,All,Apparel,Central Plains Hub,Kansas City,MO,4.6,16.65,25.53,32900.0,32900.0
+10,5150,1901,200,1393,308,2024,All,Apparel,Mid-Atlantic Depot,Philadelphia,PA,3.88,27.05,36.91,47525.0,47525.0
+1,2586,1083,157,677,249,2024,All,Sports & Outdoors,East Coast Hub,New York,NY,6.07,26.18,41.88,27075.0,27075.0
+2,2496,693,117,467,109,2024,All,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,4.69,18.71,27.76,17325.0,17325.0
+3,2533,758,103,516,139,2024,All,Sports & Outdoors,Southern Gateway,Dallas,TX,4.07,20.37,29.92,18950.0,18950.0
+4,2503,1419,122,987,310,2024,All,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,4.87,39.43,56.69,35475.0,35475.0
+5,2519,719,121,482,116,2024,All,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.8,19.13,28.54,17975.0,17975.0
+6,2449,1464,48,1154,262,2024,All,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,1.96,47.12,59.78,36600.0,36600.0
+7,2490,1105,88,843,174,2024,All,Sports & Outdoors,Southwest Center,Phoenix,AZ,3.53,33.86,44.38,27625.0,27625.0
+8,2552,786,104,540,142,2024,All,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.08,21.16,30.8,19650.0,19650.0
+9,2420,589,116,357,116,2024,All,Sports & Outdoors,Central Plains Hub,Kansas City,MO,4.79,14.75,24.34,14725.0,14725.0
+10,2567,901,99,681,121,2024,All,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.86,26.53,35.1,22525.0,22525.0
+1,2570,1041,145,673,223,2024,All,Beauty & Health,East Coast Hub,New York,NY,5.64,26.19,40.51,26025.0,26025.0
+2,2492,667,104,449,114,2024,All,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.17,18.02,26.77,16675.0,16675.0
+3,2547,699,104,489,106,2024,All,Beauty & Health,Southern Gateway,Dallas,TX,4.08,19.2,27.44,17475.0,17475.0
+4,2659,1511,116,1041,354,2024,All,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.36,39.15,56.83,37775.0,37775.0
+5,2590,727,88,518,121,2024,All,Beauty & Health,Southeast Express Hub,Atlanta,GA,3.4,20.0,28.07,18175.0,18175.0
+6,2507,1543,59,1230,254,2024,All,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.35,49.06,61.55,38575.0,38575.0
+7,2537,1145,69,858,218,2024,All,Beauty & Health,Southwest Center,Phoenix,AZ,2.72,33.82,45.13,28625.0,28625.0
+8,2544,872,104,602,166,2024,All,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.09,23.66,34.28,21800.0,21800.0
+9,2533,648,91,449,108,2024,All,Beauty & Health,Central Plains Hub,Kansas City,MO,3.59,17.73,25.58,16200.0,16200.0
+10,2634,930,104,687,139,2024,All,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,3.95,26.08,35.31,23250.0,23250.0
+1,2257,923,129,584,210,2024,All,Books,East Coast Hub,New York,NY,5.72,25.88,40.89,23075.0,23075.0
+2,2245,593,89,409,95,2024,All,Books,Midwest Logistics Center,Chicago,IL,3.96,18.22,26.41,14825.0,14825.0
+3,2314,676,97,459,120,2024,All,Books,Southern Gateway,Dallas,TX,4.19,19.84,29.21,16900.0,16900.0
+4,2258,1295,104,918,273,2024,All,Books,Pacific Distribution Hub,Los Angeles,CA,4.61,40.66,57.35,32375.0,32375.0
+5,2265,650,86,448,116,2024,All,Books,Southeast Express Hub,Atlanta,GA,3.8,19.78,28.7,16250.0,16250.0
+6,2324,1395,64,1086,245,2024,All,Books,Northwest Fulfillment,Seattle,WA,2.75,46.73,60.03,34875.0,34875.0
+7,2277,1010,83,747,180,2024,All,Books,Southwest Center,Phoenix,AZ,3.65,32.81,44.36,25250.0,25250.0
+8,2308,782,88,546,148,2024,All,Books,Rocky Mountain Hub,Denver,CO,3.81,23.66,33.88,19550.0,19550.0
+9,2270,587,113,380,94,2024,All,Books,Central Plains Hub,Kansas City,MO,4.98,16.74,25.86,14675.0,14675.0
+10,2284,784,84,571,129,2024,All,Books,Mid-Atlantic Depot,Philadelphia,PA,3.68,25.0,34.33,19600.0,19600.0
+1,17178,7221,962,4707,1552,2024,Inter-State / Long-Haul,All,East Coast Hub,New York,NY,5.6,27.4,42.04,180525.0,180525.0
+2,17032,4644,736,3113,795,2024,Inter-State / Long-Haul,All,Midwest Logistics Center,Chicago,IL,4.32,18.28,27.27,116100.0,116100.0
+3,15925,4798,705,3236,857,2024,Inter-State / Long-Haul,All,Southern Gateway,Dallas,TX,4.43,20.32,30.13,119950.0,119950.0
+4,17227,10236,742,7133,2361,2024,Inter-State / Long-Haul,All,Pacific Distribution Hub,Los Angeles,CA,4.31,41.41,59.42,255900.0,255900.0
+5,17135,4885,716,3360,809,2024,Inter-State / Long-Haul,All,Southeast Express Hub,Atlanta,GA,4.18,19.61,28.51,122125.0,122125.0
+6,16738,10529,367,8423,1739,2024,Inter-State / Long-Haul,All,Northwest Fulfillment,Seattle,WA,2.19,50.32,62.9,263225.0,263225.0
+7,17074,7796,541,5874,1381,2024,Inter-State / Long-Haul,All,Southwest Center,Phoenix,AZ,3.17,34.4,45.66,194900.0,194900.0
+8,17081,5723,727,3942,1054,2024,Inter-State / Long-Haul,All,Rocky Mountain Hub,Denver,CO,4.26,23.08,33.51,143075.0,143075.0
+9,16967,4219,805,2720,694,2024,Inter-State / Long-Haul,All,Central Plains Hub,Kansas City,MO,4.74,16.03,24.87,105475.0,105475.0
+10,17145,6275,656,4644,975,2024,Inter-State / Long-Haul,All,Mid-Atlantic Depot,Philadelphia,PA,3.83,27.09,36.6,156875.0,156875.0
+1,6032,2577,320,1693,564,2024,Inter-State / Long-Haul,Electronics,East Coast Hub,New York,NY,5.31,28.07,42.72,64425.0,64425.0
+2,6054,1725,258,1174,293,2024,Inter-State / Long-Haul,Electronics,Midwest Logistics Center,Chicago,IL,4.26,19.39,28.49,43125.0,43125.0
+3,5652,1770,256,1180,334,2024,Inter-State / Long-Haul,Electronics,Southern Gateway,Dallas,TX,4.53,20.88,31.32,44250.0,44250.0
+4,6037,3646,247,2552,847,2024,Inter-State / Long-Haul,Electronics,Pacific Distribution Hub,Los Angeles,CA,4.09,42.27,60.39,91150.0,91150.0
+5,6016,1807,258,1248,301,2024,Inter-State / Long-Haul,Electronics,Southeast Express Hub,Atlanta,GA,4.29,20.74,30.04,45175.0,45175.0
+6,5931,3815,141,3062,612,2024,Inter-State / Long-Haul,Electronics,Northwest Fulfillment,Seattle,WA,2.38,51.63,64.32,95375.0,95375.0
+7,6091,2914,187,2212,515,2024,Inter-State / Long-Haul,Electronics,Southwest Center,Phoenix,AZ,3.07,36.32,47.84,72850.0,72850.0
+8,6087,2114,253,1464,397,2024,Inter-State / Long-Haul,Electronics,Rocky Mountain Hub,Denver,CO,4.16,24.05,34.73,52850.0,52850.0
+9,5932,1509,287,968,254,2024,Inter-State / Long-Haul,Electronics,Central Plains Hub,Kansas City,MO,4.84,16.32,25.44,37725.0,37725.0
+10,5998,2300,246,1707,347,2024,Inter-State / Long-Haul,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.1,28.46,38.35,57500.0,57500.0
+1,5496,2349,297,1574,478,2024,Inter-State / Long-Haul,Home & Kitchen,East Coast Hub,New York,NY,5.4,28.64,42.74,58725.0,58725.0
+2,5281,1459,223,997,239,2024,Inter-State / Long-Haul,Home & Kitchen,Midwest Logistics Center,Chicago,IL,4.22,18.88,27.63,36475.0,36475.0
+3,4998,1553,213,1054,286,2024,Inter-State / Long-Haul,Home & Kitchen,Southern Gateway,Dallas,TX,4.26,21.09,31.07,38825.0,38825.0
+4,5340,3237,231,2273,733,2024,Inter-State / Long-Haul,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,4.33,42.57,60.62,80925.0,80925.0
+5,5298,1551,213,1087,251,2024,Inter-State / Long-Haul,Home & Kitchen,Southeast Express Hub,Atlanta,GA,4.02,20.52,29.28,38775.0,38775.0
+6,5267,3356,97,2728,531,2024,Inter-State / Long-Haul,Home & Kitchen,Northwest Fulfillment,Seattle,WA,1.84,51.79,63.72,83900.0,83900.0
+7,5351,2552,160,1944,448,2024,Inter-State / Long-Haul,Home & Kitchen,Southwest Center,Phoenix,AZ,2.99,36.33,47.69,63800.0,63800.0
+8,5318,1872,222,1312,338,2024,Inter-State / Long-Haul,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.17,24.67,35.2,46800.0,46800.0
+9,5303,1373,269,878,226,2024,Inter-State / Long-Haul,Home & Kitchen,Central Plains Hub,Kansas City,MO,5.07,16.56,25.89,34325.0,34325.0
+10,5419,2051,193,1543,315,2024,Inter-State / Long-Haul,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,3.56,28.47,37.85,51275.0,51275.0
+1,4716,2086,268,1378,440,2024,Inter-State / Long-Haul,Apparel,East Coast Hub,New York,NY,5.68,29.22,44.23,52150.0,52150.0
+2,4791,1360,220,896,244,2024,Inter-State / Long-Haul,Apparel,Midwest Logistics Center,Chicago,IL,4.59,18.7,28.39,34000.0,34000.0
+3,4322,1311,191,875,245,2024,Inter-State / Long-Haul,Apparel,Southern Gateway,Dallas,TX,4.42,20.25,30.33,32775.0,32775.0
+4,4849,2899,180,2035,684,2024,Inter-State / Long-Haul,Apparel,Pacific Distribution Hub,Los Angeles,CA,3.71,41.97,59.79,72475.0,72475.0
+5,4808,1423,192,989,242,2024,Inter-State / Long-Haul,Apparel,Southeast Express Hub,Atlanta,GA,3.99,20.57,29.6,35575.0,35575.0
+6,4692,2982,103,2365,514,2024,Inter-State / Long-Haul,Apparel,Northwest Fulfillment,Seattle,WA,2.2,50.4,63.55,74550.0,74550.0
+7,4793,2223,154,1671,398,2024,Inter-State / Long-Haul,Apparel,Southwest Center,Phoenix,AZ,3.21,34.86,46.38,55575.0,55575.0
+8,4795,1671,206,1153,312,2024,Inter-State / Long-Haul,Apparel,Rocky Mountain Hub,Denver,CO,4.3,24.05,34.85,41775.0,41775.0
+9,4806,1289,225,846,218,2024,Inter-State / Long-Haul,Apparel,Central Plains Hub,Kansas City,MO,4.68,17.6,26.82,32225.0,32225.0
+10,4809,1877,186,1385,306,2024,Inter-State / Long-Haul,Apparel,Mid-Atlantic Depot,Philadelphia,PA,3.87,28.8,39.03,46925.0,46925.0
+1,2427,1065,145,672,248,2024,Inter-State / Long-Haul,Sports & Outdoors,East Coast Hub,New York,NY,5.97,27.69,43.88,26625.0,26625.0
+2,2337,681,111,461,109,2024,Inter-State / Long-Haul,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,4.75,19.73,29.14,17025.0,17025.0
+3,2225,734,90,505,139,2024,Inter-State / Long-Haul,Sports & Outdoors,Southern Gateway,Dallas,TX,4.04,22.7,32.99,18350.0,18350.0
+4,2345,1393,105,978,310,2024,Inter-State / Long-Haul,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,4.48,41.71,59.4,34825.0,34825.0
+5,2351,702,111,476,115,2024,Inter-State / Long-Haul,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,4.72,20.25,29.86,17550.0,17550.0
+6,2296,1456,45,1149,262,2024,Inter-State / Long-Haul,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,1.96,50.04,63.41,36400.0,36400.0
+7,2298,1087,79,836,172,2024,Inter-State / Long-Haul,Sports & Outdoors,Southwest Center,Phoenix,AZ,3.44,36.38,47.3,27175.0,27175.0
+8,2385,776,98,537,141,2024,Inter-State / Long-Haul,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,4.11,22.52,32.54,19400.0,19400.0
+9,2257,575,107,352,116,2024,Inter-State / Long-Haul,Sports & Outdoors,Central Plains Hub,Kansas City,MO,4.74,15.6,25.48,14375.0,14375.0
+10,2418,897,95,681,121,2024,Inter-State / Long-Haul,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,3.93,28.16,37.1,22425.0,22425.0
+1,2399,1016,133,664,219,2024,Inter-State / Long-Haul,Beauty & Health,East Coast Hub,New York,NY,5.54,27.68,42.35,25400.0,25400.0
+2,2315,653,97,442,114,2024,Inter-State / Long-Haul,Beauty & Health,Midwest Logistics Center,Chicago,IL,4.19,19.09,28.21,16325.0,16325.0
+3,2193,665,87,477,101,2024,Inter-State / Long-Haul,Beauty & Health,Southern Gateway,Dallas,TX,3.97,21.75,30.32,16625.0,16625.0
+4,2463,1489,103,1035,351,2024,Inter-State / Long-Haul,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,4.18,42.02,60.45,37225.0,37225.0
+5,2452,717,80,516,121,2024,Inter-State / Long-Haul,Beauty & Health,Southeast Express Hub,Atlanta,GA,3.26,21.04,29.24,17925.0,17925.0
+6,2348,1535,52,1230,253,2024,Inter-State / Long-Haul,Beauty & Health,Northwest Fulfillment,Seattle,WA,2.21,52.39,65.37,38375.0,38375.0
+7,2378,1132,64,851,217,2024,Inter-State / Long-Haul,Beauty & Health,Southwest Center,Phoenix,AZ,2.69,35.79,47.6,28300.0,28300.0
+8,2367,859,96,598,165,2024,Inter-State / Long-Haul,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.06,25.26,36.29,21475.0,21475.0
+9,2343,636,87,442,107,2024,Inter-State / Long-Haul,Beauty & Health,Central Plains Hub,Kansas City,MO,3.71,18.86,27.14,15900.0,15900.0
+10,2433,912,90,683,139,2024,Inter-State / Long-Haul,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,3.7,28.07,37.48,22800.0,22800.0
+1,2087,905,117,579,209,2024,Inter-State / Long-Haul,Books,East Coast Hub,New York,NY,5.61,27.74,43.36,22625.0,22625.0
+2,2098,584,84,406,94,2024,Inter-State / Long-Haul,Books,Midwest Logistics Center,Chicago,IL,4.0,19.35,27.84,14600.0,14600.0
+3,2019,649,86,446,117,2024,Inter-State / Long-Haul,Books,Southern Gateway,Dallas,TX,4.26,22.09,32.14,16225.0,16225.0
+4,2080,1279,92,914,273,2024,Inter-State / Long-Haul,Books,Pacific Distribution Hub,Los Angeles,CA,4.42,43.94,61.49,31975.0,31975.0
+5,2112,635,77,444,114,2024,Inter-State / Long-Haul,Books,Southeast Express Hub,Atlanta,GA,3.65,21.02,30.07,15875.0,15875.0
+6,2159,1370,48,1079,243,2024,Inter-State / Long-Haul,Books,Northwest Fulfillment,Seattle,WA,2.22,49.98,63.46,34250.0,34250.0
+7,2119,996,76,742,178,2024,Inter-State / Long-Haul,Books,Southwest Center,Phoenix,AZ,3.59,35.02,47.0,24900.0,24900.0
+8,2181,774,83,543,148,2024,Inter-State / Long-Haul,Books,Rocky Mountain Hub,Denver,CO,3.81,24.9,35.49,19350.0,19350.0
+9,2117,571,104,374,93,2024,Inter-State / Long-Haul,Books,Central Plains Hub,Kansas City,MO,4.91,17.67,26.97,14275.0,14275.0
+10,2138,769,75,566,128,2024,Inter-State / Long-Haul,Books,Mid-Atlantic Depot,Philadelphia,PA,3.51,26.47,35.97,19225.0,19225.0
+1,1210,137,92,38,7,2024,Intra-State / Local,All,East Coast Hub,New York,NY,7.6,3.14,11.32,3425.0,3425.0
+2,1230,97,68,25,4,2024,Intra-State / Local,All,Midwest Logistics Center,Chicago,IL,5.53,2.03,7.89,2425.0,2425.0
+3,2368,197,99,80,18,2024,Intra-State / Local,All,Southern Gateway,Dallas,TX,4.18,3.38,8.32,4925.0,4925.0
+4,1218,118,77,35,6,2024,Intra-State / Local,All,Pacific Distribution Hub,Los Angeles,CA,6.32,2.87,9.69,2950.0,2950.0
+5,1204,108,70,34,4,2024,Intra-State / Local,All,Southeast Express Hub,Atlanta,GA,5.81,2.82,8.97,2700.0,2700.0
+6,1261,100,56,35,9,2024,Intra-State / Local,All,Northwest Fulfillment,Seattle,WA,4.44,2.78,7.93,2500.0,2500.0
+7,1240,104,67,31,6,2024,Intra-State / Local,All,Southwest Center,Phoenix,AZ,5.4,2.5,8.39,2600.0,2600.0
+8,1174,90,46,39,5,2024,Intra-State / Local,All,Rocky Mountain Hub,Denver,CO,3.92,3.32,7.67,2250.0,2250.0
+9,1265,93,46,40,7,2024,Intra-State / Local,All,Central Plains Hub,Kansas City,MO,3.64,3.16,7.35,2325.0,2325.0
+10,1197,85,58,23,4,2024,Intra-State / Local,All,Mid-Atlantic Depot,Philadelphia,PA,4.85,1.92,7.1,2125.0,2125.0
+1,411,45,30,14,1,2024,Intra-State / Local,Electronics,East Coast Hub,New York,NY,7.3,3.41,10.95,1125.0,1125.0
+2,448,35,26,8,1,2024,Intra-State / Local,Electronics,Midwest Logistics Center,Chicago,IL,5.8,1.79,7.81,875.0,875.0
+3,869,76,39,27,10,2024,Intra-State / Local,Electronics,Southern Gateway,Dallas,TX,4.49,3.11,8.75,1900.0,1900.0
+4,411,35,23,9,3,2024,Intra-State / Local,Electronics,Pacific Distribution Hub,Los Angeles,CA,5.6,2.19,8.52,875.0,875.0
+5,428,41,27,14,0,2024,Intra-State / Local,Electronics,Southeast Express Hub,Atlanta,GA,6.31,3.27,9.58,1025.0,1025.0
+6,432,33,17,11,5,2024,Intra-State / Local,Electronics,Northwest Fulfillment,Seattle,WA,3.94,2.55,7.64,825.0,825.0
+7,456,41,29,9,3,2024,Intra-State / Local,Electronics,Southwest Center,Phoenix,AZ,6.36,1.97,8.99,1025.0,1025.0
+8,413,31,11,18,2,2024,Intra-State / Local,Electronics,Rocky Mountain Hub,Denver,CO,2.66,4.36,7.51,775.0,775.0
+9,443,25,10,13,2,2024,Intra-State / Local,Electronics,Central Plains Hub,Kansas City,MO,2.26,2.93,5.64,625.0,625.0
+10,403,29,18,8,3,2024,Intra-State / Local,Electronics,Mid-Atlantic Depot,Philadelphia,PA,4.47,1.99,7.2,725.0,725.0
+1,371,54,39,12,3,2024,Intra-State / Local,Home & Kitchen,East Coast Hub,New York,NY,10.51,3.23,14.56,1350.0,1350.0
+2,346,27,20,5,2,2024,Intra-State / Local,Home & Kitchen,Midwest Logistics Center,Chicago,IL,5.78,1.45,7.8,675.0,675.0
+3,702,50,19,24,7,2024,Intra-State / Local,Home & Kitchen,Southern Gateway,Dallas,TX,2.71,3.42,7.12,1250.0,1250.0
+4,364,42,26,14,2,2024,Intra-State / Local,Home & Kitchen,Pacific Distribution Hub,Los Angeles,CA,7.14,3.85,11.54,1050.0,1050.0
+5,411,36,23,12,1,2024,Intra-State / Local,Home & Kitchen,Southeast Express Hub,Atlanta,GA,5.6,2.92,8.76,900.0,900.0
+6,384,31,15,14,2,2024,Intra-State / Local,Home & Kitchen,Northwest Fulfillment,Seattle,WA,3.91,3.65,8.07,775.0,775.0
+7,378,39,25,12,2,2024,Intra-State / Local,Home & Kitchen,Southwest Center,Phoenix,AZ,6.61,3.17,10.32,975.0,975.0
+8,389,37,19,17,1,2024,Intra-State / Local,Home & Kitchen,Rocky Mountain Hub,Denver,CO,4.88,4.37,9.51,925.0,925.0
+9,390,33,18,13,2,2024,Intra-State / Local,Home & Kitchen,Central Plains Hub,Kansas City,MO,4.62,3.33,8.46,825.0,825.0
+10,375,30,19,10,1,2024,Intra-State / Local,Home & Kitchen,Mid-Atlantic Depot,Philadelphia,PA,5.07,2.67,8.0,750.0,750.0
+1,334,29,17,11,1,2024,Intra-State / Local,Apparel,East Coast Hub,New York,NY,5.09,3.29,8.68,725.0,725.0
+2,344,22,16,4,2,2024,Intra-State / Local,Apparel,Midwest Logistics Center,Chicago,IL,4.65,1.16,6.4,550.0,550.0
+3,638,55,26,25,4,2024,Intra-State / Local,Apparel,Southern Gateway,Dallas,TX,4.08,3.92,8.62,1375.0,1375.0
+4,305,24,15,6,3,2024,Intra-State / Local,Apparel,Pacific Distribution Hub,Los Angeles,CA,4.92,1.97,7.87,600.0,600.0
+5,339,36,21,14,1,2024,Intra-State / Local,Apparel,Southeast Express Hub,Atlanta,GA,6.19,4.13,10.62,900.0,900.0
+6,356,28,14,13,1,2024,Intra-State / Local,Apparel,Northwest Fulfillment,Seattle,WA,3.93,3.65,7.87,700.0,700.0
+7,343,26,17,9,0,2024,Intra-State / Local,Apparel,Southwest Center,Phoenix,AZ,4.96,2.62,7.58,650.0,650.0
+8,316,22,10,10,2,2024,Intra-State / Local,Apparel,Rocky Mountain Hub,Denver,CO,3.16,3.16,6.96,550.0,550.0
+9,348,27,12,12,3,2024,Intra-State / Local,Apparel,Central Plains Hub,Kansas City,MO,3.45,3.45,7.76,675.0,675.0
+10,341,24,14,8,2,2024,Intra-State / Local,Apparel,Mid-Atlantic Depot,Philadelphia,PA,4.11,2.35,7.04,600.0,600.0
+1,159,18,12,5,1,2024,Intra-State / Local,Sports & Outdoors,East Coast Hub,New York,NY,7.55,3.14,11.32,450.0,450.0
+2,159,12,6,6,0,2024,Intra-State / Local,Sports & Outdoors,Midwest Logistics Center,Chicago,IL,3.77,3.77,7.55,300.0,300.0
+3,308,24,13,11,0,2024,Intra-State / Local,Sports & Outdoors,Southern Gateway,Dallas,TX,4.22,3.57,7.79,600.0,600.0
+4,158,26,17,9,0,2024,Intra-State / Local,Sports & Outdoors,Pacific Distribution Hub,Los Angeles,CA,10.76,5.7,16.46,650.0,650.0
+5,168,17,10,6,1,2024,Intra-State / Local,Sports & Outdoors,Southeast Express Hub,Atlanta,GA,5.95,3.57,10.12,425.0,425.0
+6,153,8,3,5,0,2024,Intra-State / Local,Sports & Outdoors,Northwest Fulfillment,Seattle,WA,1.96,3.27,5.23,200.0,200.0
+7,192,18,9,7,2,2024,Intra-State / Local,Sports & Outdoors,Southwest Center,Phoenix,AZ,4.69,3.65,9.38,450.0,450.0
+8,167,10,6,3,1,2024,Intra-State / Local,Sports & Outdoors,Rocky Mountain Hub,Denver,CO,3.59,1.8,5.99,250.0,250.0
+9,163,14,9,5,0,2024,Intra-State / Local,Sports & Outdoors,Central Plains Hub,Kansas City,MO,5.52,3.07,8.59,350.0,350.0
+10,149,4,4,0,0,2024,Intra-State / Local,Sports & Outdoors,Mid-Atlantic Depot,Philadelphia,PA,2.68,0.0,2.68,100.0,100.0
+1,171,25,12,9,4,2024,Intra-State / Local,Beauty & Health,East Coast Hub,New York,NY,7.02,5.26,14.62,625.0,625.0
+2,177,14,7,7,0,2024,Intra-State / Local,Beauty & Health,Midwest Logistics Center,Chicago,IL,3.95,3.95,7.91,350.0,350.0
+3,354,34,17,12,5,2024,Intra-State / Local,Beauty & Health,Southern Gateway,Dallas,TX,4.8,3.39,9.6,850.0,850.0
+4,196,22,13,6,3,2024,Intra-State / Local,Beauty & Health,Pacific Distribution Hub,Los Angeles,CA,6.63,3.06,11.22,550.0,550.0
+5,138,10,8,2,0,2024,Intra-State / Local,Beauty & Health,Southeast Express Hub,Atlanta,GA,5.8,1.45,7.25,250.0,250.0
+6,159,8,7,0,1,2024,Intra-State / Local,Beauty & Health,Northwest Fulfillment,Seattle,WA,4.4,0.0,5.03,200.0,200.0
+7,159,13,5,7,1,2024,Intra-State / Local,Beauty & Health,Southwest Center,Phoenix,AZ,3.14,4.4,8.18,325.0,325.0
+8,177,13,8,4,1,2024,Intra-State / Local,Beauty & Health,Rocky Mountain Hub,Denver,CO,4.52,2.26,7.34,325.0,325.0
+9,190,12,4,7,1,2024,Intra-State / Local,Beauty & Health,Central Plains Hub,Kansas City,MO,2.11,3.68,6.32,300.0,300.0
+10,201,18,14,4,0,2024,Intra-State / Local,Beauty & Health,Mid-Atlantic Depot,Philadelphia,PA,6.97,1.99,8.96,450.0,450.0
+1,170,18,12,5,1,2024,Intra-State / Local,Books,East Coast Hub,New York,NY,7.06,2.94,10.59,450.0,450.0
+2,147,9,5,3,1,2024,Intra-State / Local,Books,Midwest Logistics Center,Chicago,IL,3.4,2.04,6.12,225.0,225.0
+3,295,27,11,13,3,2024,Intra-State / Local,Books,Southern Gateway,Dallas,TX,3.73,4.41,9.15,675.0,675.0
+4,178,16,12,4,0,2024,Intra-State / Local,Books,Pacific Distribution Hub,Los Angeles,CA,6.74,2.25,8.99,400.0,400.0
+5,153,15,9,4,2,2024,Intra-State / Local,Books,Southeast Express Hub,Atlanta,GA,5.88,2.61,9.8,375.0,375.0
+6,165,25,16,7,2,2024,Intra-State / Local,Books,Northwest Fulfillment,Seattle,WA,9.7,4.24,15.15,625.0,625.0
+7,158,14,7,5,2,2024,Intra-State / Local,Books,Southwest Center,Phoenix,AZ,4.43,3.16,8.86,350.0,350.0
+8,127,8,5,3,0,2024,Intra-State / Local,Books,Rocky Mountain Hub,Denver,CO,3.94,2.36,6.3,200.0,200.0
+9,153,16,9,6,1,2024,Intra-State / Local,Books,Central Plains Hub,Kansas City,MO,5.88,3.92,10.46,400.0,400.0
+10,146,15,9,5,1,2024,Intra-State / Local,Books,Mid-Atlantic Depot,Philadelphia,PA,6.16,3.42,10.27,375.0,375.0

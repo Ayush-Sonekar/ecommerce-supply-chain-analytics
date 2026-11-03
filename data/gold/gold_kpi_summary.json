@@ -1,0 +1,42 @@
+{
+    "All Years (2022-2024)": {
+        "lifetime_net_revenue": 585658057.70,
+        "total_orders": 1000000,
+        "fulfilled_orders": 919804,
+        "cancelled_orders": 80196,
+        "overall_delay_rate_pct": 37.44,
+        "commercial_otif_pct": 55.28,
+        "concession_loss_usd": 8609575.0,
+        "ml_model_accuracy": 81.07
+    },
+    "2022": {
+        "lifetime_net_revenue": 233650387.67,
+        "total_orders": 399567,
+        "fulfilled_orders": 367510,
+        "cancelled_orders": 32057,
+        "overall_delay_rate_pct": 37.55,
+        "commercial_otif_pct": 55.19,
+        "concession_loss_usd": 3449975.0,
+        "ml_model_accuracy": 81.07
+    },
+    "2023": {
+        "lifetime_net_revenue": 235359678.96,
+        "total_orders": 401512,
+        "fulfilled_orders": 369425,
+        "cancelled_orders": 32087,
+        "overall_delay_rate_pct": 37.61,
+        "commercial_otif_pct": 55.24,
+        "concession_loss_usd": 3473225.0,
+        "ml_model_accuracy": 81.07
+    },
+    "2024": {
+        "lifetime_net_revenue": 116647991.07,
+        "total_orders": 198921,
+        "fulfilled_orders": 182869,
+        "cancelled_orders": 16052,
+        "overall_delay_rate_pct": 36.89,
+        "commercial_otif_pct": 55.54,
+        "concession_loss_usd": 1686375.0,
+        "ml_model_accuracy": 81.07
+    }
+}
