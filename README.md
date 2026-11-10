@@ -31,7 +31,7 @@ Because I wrote the generator, the findings below reflect the rules and assumpti
 | Delay model accuracy | 81.07% | vs. 62.56% majority-class baseline (+18.5 percentage points) |
 | Delay precision / recall | 79.15% / 66.99% | Class 1 (delayed) on 184,017 unseen test orders |
 
-## Modeling decisions (the part I want you to read)
+## Modeling decisions
 
 **1. Cancelled-order denominator.** Setting `is_delayed = 0` on cancelled orders counts them as on-time and understates the delay rate by about 8%. I set the delay flags to `NULL` for cancelled orders so they drop out of the denominator.
 
